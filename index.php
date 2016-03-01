@@ -12,38 +12,17 @@
 
     </head>
     <body>
-    <!-- Wrapper Start -->
+        <!-- Wrapper Start -->
         <div id="wrapper" class="container-fluid">
             <!-- Header -->
             <div class="ie-dropdown-fix" >
                 <!-- Header -->
-                <div class="row-fluid" id="header">
-                    <!-- Logo -->
-                    <div class="span5">
-                        <a href="#"><img src="images/header/btc_logo_100w.jpg" alt="logo" /></a>
-                    </div>
-
-                    <!-- Social / Contact -->
-                    <div class="span4 pull-right">
-
-                        <!-- Social Icons -->
-                        <ul class="social-icons">
-                            <li class="facebook"><a href="#">Facebook</a></li>
-                            <li class="twitter"><a href="#">Twitter</a></li>
-                            <li class="dribbble"><a href="#">Dribbble</a></li>
-                            <li class="linkedin"><a href="#">LinkedIn</a></li>
-                            <li class="pintrest"><a href="#">Pintrest</a></li>
-                        </ul>
-
-                    </div>
-
-                </div>
-                <!-- Header / End -->
+                <?php include 'common/header.php'; ?>
 
                 <!-- Navigation -->
                 <?php include 'common/navbar.php'; ?>
-                
-                
+
+
                 <div class="nav-shadow"></div>
                 <div class="clear"></div>
 
@@ -61,8 +40,8 @@
 
                         <li><img src="images/sessions/bike/parkrun.jpg" alt="" /></li>
                         <li><img src="images/sessions/bike/bike-ride.jpg" alt="" /></li>
-                        <li><img src="http://placehold.it/940x400/72B626/ffffff/&text=Big Responsive Slider" alt="" /></li>
-                        <li><img src="http://placehold.it/940x400/C71C77/ffffff/&text=Banner+with+Caption" alt="" />
+                        <!--<li><img src="http://placehold.it/940x400/72B626/ffffff/&text=Big Responsive Slider" alt="" /></li>
+                        <li><img src="http://placehold.it/940x400/C71C77/ffffff/&text=Banner+with+Caption" alt="" />-->
                             <div class="slide-caption">
                                 <h3>This is a caption</h3>
                                 <p>Donec scelerisque aliquet mi, non venenatis urnas iaculis. Utea id nila ante. Cras est massa, interdum  ateal imperdiet etean, gravida eu quame. Aeneana volutpat hendrerit posuere.</p>
@@ -127,10 +106,11 @@
                     <div class="footer-headline"><h4>Latest Tweets</h4></div>
                     <ul id="twitter"></ul>
                     <script type="text/javascript">
-                        jQuery(document).ready(function($){
-                            $.getJSON('http://api.twitter.com/1/statuses/user_timeline/wrapbootstrap.json?count=2&amp;callback=?', function(tweets){
+                        jQuery(document).ready(function ($) {
+                            $.getJSON('http://api.twitter.com/1/statuses/user_timeline/wrapbootstrap.json?count=2&amp;callback=?', function (tweets) {
                                 $("#twitter").html(tz_format_twitter(tweets));
-                            }); });
+                            });
+                        });
                     </script>
                     <div class="clear"></div>
                 </div>
@@ -138,28 +118,27 @@
             </div>
 
         </div>
-        <!-- Footer / Bottom -->
         <!-- Footer   -->
         <?php include 'common/footer.php'; ?>
         <!-- Footer / End -->
 
-      
+
     </div> <!-- /container -->
 
 
-        
-        <!-- Javascript -->
-        <?php include 'common/js.php'; ?>
-        <script type="text/javascript">
-            $(document).ready(function () {
-                var str = location.href.toLowerCase();
-                console.log(str);
-                $('#nav li a').each(function () {
-                    if (str.indexOf(this.href.toLowerCase()) > -1) {
-                        $(this).addClass("active");
-                    }
-                });
+
+    <!-- Javascript -->
+    <?php include 'common/js.php'; ?>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            var str = location.href.toLowerCase();
+            console.log(str);
+            $('#nav li a').each(function () {
+                if (str.indexOf(this.href.toLowerCase()) > -1) {
+                    $(this).addClass("active");
+                }
             });
-        </script>
-    </body>
+        });
+    </script>
+</body>
 </html>
