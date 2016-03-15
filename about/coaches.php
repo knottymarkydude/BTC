@@ -22,7 +22,6 @@
                 <!-- Navigation -->
                 <?php include '../common/navbar.php'; ?>
 
-
                 <div class="nav-shadow"></div>
                 <div class="clear"></div>
 
