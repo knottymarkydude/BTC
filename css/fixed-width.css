@@ -30,7 +30,7 @@ Reset Rules End*/
 
 body {
     background: url(../images/bg/noise.png);
-    font-size: 12px;
+    font-size: 14px;
     font-family: 'Carrois Gothic', sans-serif !important;
     color: #666;
     -webkit-font-smoothing: antialiased; /* Fix for webkit rendering */

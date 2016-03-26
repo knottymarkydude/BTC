@@ -6,7 +6,7 @@
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>Belvoir Tri Club</title>
+        <title>Contact Us</title>
         <?php include 'common/css.php'; ?>
     </head>
     <body>
@@ -24,16 +24,11 @@
             </div>
             <!-- Navigation / End -->
             <!-- Content -->
-            <!-- Flex Slider -->
-            <section class="slider">
-                <div class="flexslider home">
-                    <ul class="slides">
-
-                        <li><img src="images/sessions/bike/parkrun.jpg" alt="" /></li>
-                        <li><img src="images/sessions/bike/bike-ride.jpg" alt="" /></li>
-                    </ul>
-                </div>
-            </section>
+            <div class="panel panel-body">
+                
+                
+            </div>
+            <!-- End Content -->
             <!-- Footer   -->
             <?php include 'common/footer.php'; ?>
             <!-- Footer / End -->

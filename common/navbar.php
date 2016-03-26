@@ -4,16 +4,15 @@
         <li><a href="/index.php" id="index">Home</a></li>
         <li><a id="gc" href="/about/index.php" >About Us</a>
             <ul>
-                <li><a href="/about/whoweare.php">Who we are</a></li>
+                <!--<li><a href="/about/whoweare.php">Who we are</a></li>-->
                 <li><a href="/about/coaches.php">Coaches</a>
                 <li><a href="/about/committee.php">Committee</a>
             </ul>
         </li>
-        <li><a href="/shop/index.php" id="index">Shop</a>
+        <li><a href="http://btc-knottymarkdude.rhcloud.com/" id="index">Shop</a>
             <ul>
-                <li><a href="/shop/kit.php">Kit</a></li>
-                <li><a href="/shop/coachedsessions.php">Coached Sessions</a></li>
-                <li><a href="/shop/misc.php">Misc</a></li>
+                <li><a href="http://btc-knottymarkdude.rhcloud.com/index.php?route=product/category&path=64_33">Kit</a></li>
+                <li><a href="http://btc-knottymarkdude.rhcloud.com/index.php?route=product/category&path=64_60">Coached Sessions</a></li>
             </ul>
         </li>
         <li><a href="/gallery/index.php" id="index">Gallery</a></li>

@@ -27,11 +27,35 @@
 
             </div>
             <!-- Navigation / End -->
+            <div class="row-fluid">
+                <!-- Page Title -->
+                <div id="page-title">
+                    <h2>Coaches</h2>
+                </div>
+                <!-- Page Title / End -->
+            </div>
+            <div class="row-fluid">
+                <!-- Standard Structure -->
+                <div class="span8">
+                    <div class="headline"><h4>What we Do?</h4></div>
+                    <p>Donec odio ut arcu fringilla dictum eu eu nisl. Donec rutrum erat non arcu gravida porttitor. Nunc et magna nisi.Aliquam at erat in purus aliquet mollis. Fusce elementum velit vel dolor iaculis egestas. Maecenas ut nulla quis eros scelerisque posuere vel vitae nibh. Proin id condimentum sem. Morbi vitae dui in magna vestibulum suscipit vitae vel nunc. Integer ut risus nulla. malesuada tortor, nec scelerisque lorem mattis.</p>
+                    <p>Nunc et rutrum consetetur sadipscing elitr, sed diam nonumy at volutpat. Sed consectetur suscipit lorem nunc.adipiscing elit. Integer commodo tristique odio, quis fringilla ligula aliquet ut. Maecenas sed justo varius velit imperdiet bibendum</p>
+                    <p>Integer commodo tristique odio, quis fringilla ligula aliquet ut. Maecenas sed justo varius velit imperdiet bibendum. Vivamus nec sapien massa, a imperdiet diam. Aliquam erat volutpat. Sed tetur suscipit nunc et rutrum. </p>
+                </div>
 
+                <div class="span4">
+                    <div class="headline "><h4>Do this</h4></div>
 
-            <!-- Content -->
+                    <!-- Large Notice -->
+                    <div class="well">
+                        <h2>Do that</h2>
+                        <p>See how it goes</p>
+                        <button type="button" class="btn btn-inverse">Ping</button>
+                    </div>
 
-            
+                </div>
+                <!-- Standard Structure End -->
+            </div>    
         </div>
         <!-- Wrapper / End -->
 
