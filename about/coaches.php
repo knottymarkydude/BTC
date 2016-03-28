@@ -18,68 +18,135 @@
             <div class="ie-dropdown-fix" >
                 <!-- Header -->
                 <?php include '../common/header.php'; ?>
-
                 <!-- Navigation -->
                 <?php include '../common/navbar.php'; ?>
-
                 <div class="nav-shadow"></div>
                 <div class="clear"></div>
-
             </div>
             <!-- Navigation / End -->
-            <div class="row-fluid">
-                <!-- Page Title -->
-                <div id="page-title">
-                    <h2>Coaches</h2>
+            <!-- Content -->
+            <div class="panel panel-body">
+                <div class="row">
+                    <!-- Page Title -->
+                    <div id="page-title">
+                        <h2>Coaches</h2>
+                    </div>
+                    <!-- Page Title / End -->
                 </div>
-                <!-- Page Title / End -->
-            </div>
-            <div class="row-fluid">
-                <!-- Standard Structure -->
-                <div class="span8">
-                    <div class="headline"><h4>What we Do?</h4></div>
-                    <p>Donec odio ut arcu fringilla dictum eu eu nisl. Donec rutrum erat non arcu gravida porttitor. Nunc et magna nisi.Aliquam at erat in purus aliquet mollis. Fusce elementum velit vel dolor iaculis egestas. Maecenas ut nulla quis eros scelerisque posuere vel vitae nibh. Proin id condimentum sem. Morbi vitae dui in magna vestibulum suscipit vitae vel nunc. Integer ut risus nulla. malesuada tortor, nec scelerisque lorem mattis.</p>
-                    <p>Nunc et rutrum consetetur sadipscing elitr, sed diam nonumy at volutpat. Sed consectetur suscipit lorem nunc.adipiscing elit. Integer commodo tristique odio, quis fringilla ligula aliquet ut. Maecenas sed justo varius velit imperdiet bibendum</p>
-                    <p>Integer commodo tristique odio, quis fringilla ligula aliquet ut. Maecenas sed justo varius velit imperdiet bibendum. Vivamus nec sapien massa, a imperdiet diam. Aliquam erat volutpat. Sed tetur suscipit nunc et rutrum. </p>
-                </div>
+                <div class="row-fluid">
+                    <!-- Standard Structure -->
+                    <div class="col-md-4">
+                        <img src="../images/coaches/karlhunt300.jpg" alt="" class="img-circle"/>
+                        <div class="staff"><h5>Karl Hunt</h5> <span>L2 Coach</span>
+                            <span>
+                                <i class="glyphicon glyphicon-envelope"></i>&nbsp;karl@belvoirtriclub.co.uk
+                            </span>
+                        </div>
+                        <div class="team-about"><p>Consectetur dolor ipsum quiam dolor adipisci velit, 
+                                aenean at lorem vel est posuere feugiat sed quia noneas numquasa mode 
+                                tempora incidunt ipsum.</p>
+                        </div>
 
-                <div class="span4">
-                    <div class="headline "><h4>Do this or that</h4></div>
-
-                    <!-- Large Notice -->
-                    <div class="well">
-                        <h2>Do that</h2>
-                        <p>See how it goes</p>
-                        <button type="button" class="btn btn-inverse">Ping</button>
+                    </div>
+                    <div class="col-md-4">
+                        <img src="../images/coaches/martinjolly300.jpg" alt="" class="img-circle"/>
+                        <div class="staff"><h5>Martin Jolly</h5> <span>L2 Coach</span>
+                            <span>
+                                <i class="glyphicon glyphicon-envelope"></i>&nbsp;martin@belvoirtriclub.co.uk
+                            </span>
+                        </div>
+                        <div class="team-about"><p>Consectetur dolor ipsum quiam dolor adipisci velit, 
+                                aenean at lorem vel est posuere feugiat sed quia noneas numquasa mode 
+                                tempora incidunt ipsum.</p>
+                        </div>
+                        
+                    </div>
+                    <div class="col-md-4">
+                        <img src="../images/coaches/markwilson300.jpg" alt="" class="img-circle"/>
+                        <div class="staff"><h5>Mark Wilson</h5> <span>L2 Coach</span><span>
+                                <i class="glyphicon glyphicon-envelope"></i>&nbsp;markw@belvoirtriclub.co.uk</span></div>
+                        <div class="team-about"><p>Consectetur dolor ipsum quiam dolor adipisci velit, 
+                                aenean at lorem vel est posuere feugiat sed quia noneas numquasa mode 
+                                tempora incidunt ipsum.</p>
+                        </div>
+                 
+                    </div>
+                    <div class="col-md-4">
+                        <img src="../images/coaches/staff-1.jpg" alt="" class="img-circle"/>
+                        <div class="staff"><h5>Gerry Hyde</h5> <span>L1 Coach</span><span>
+                                <i class="glyphicon glyphicon-envelope"></i>&nbsp;gerry@belvoirtriclub.co.uk</span></div>
+                        <div class="team-about"><p>Consectetur dolor ipsum quiam dolor adipisci velit, 
+                                aenean at lorem vel est posuere feugiat sed quia noneas numquasa mode 
+                                tempora incidunt ipsum.</p>
+                        </div>
+                        
+                    </div>
+                    <div class="col-md-4">
+                        <img src="../images/coaches/catherinedavies300.jpg" alt="" class="img-circle"/>
+                        <div class="staff"><h5>Catherine Davies</h5> <span>L1 Coach</span><span>
+                                <i class="glyphicon glyphicon-envelope"></i>&nbsp;catherine@belvoirtriclub.co.uk</span></div>
+                        <div class="team-about"><p>Consectetur dolor ipsum quiam dolor adipisci velit, 
+                                aenean at lorem vel est posuere feugiat sed quia noneas numquasa mode 
+                                tempora incidunt ipsum.</p>
+                        </div>
+                  
                     </div>
 
-                </div>
-                <!-- Standard Structure End -->
-            </div>    
+                    <div class="col-md-4">
+                        <img src="../images/coaches/staff-1.jpg" alt="" class="img-circle"/>
+                        <div class="staff"><h5>Claire Armstrong</h5> <span>L1 Coach</span><span>
+                                <i class="glyphicon glyphicon-envelope"></i>&nbsp;claire@belvoirtriclub.co.uk</span></div>
+                        <div class="team-about"><p>Consectetur dolor ipsum quiam dolor adipisci velit, 
+                                aenean at lorem vel est posuere feugiat sed quia noneas numquasa mode 
+                                tempora incidunt ipsum.</p>
+                        </div>
+                
+                    </div>
+
+                    <div class="col-md-4">
+                        <img src="../images/coaches/staff-1.jpg" alt="" class="img-circle"/>
+                        <div class="staff"><h5>Ashleigh Graham</h5> <span>L1 Coach</span><span>
+                                <i class="glyphicon glyphicon-envelope"></i>&nbsp;ashleigh@belvoirtriclub.co.uk</span></div>
+                        <div class="team-about"><p>Consectetur dolor ipsum quiam dolor adipisci velit, 
+                                aenean at lorem vel est posuere feugiat sed quia noneas numquasa mode 
+                                tempora incidunt ipsum.</p>
+                        </div>
+                
+                    </div>
+                    
+                    <div class="col-md-4">
+                        <img src="../images/coaches/chrispugh300.jpg" alt="" class="img-circle"/>
+                        <div class="staff"><h5>Chris Pugh</h5> <span>L1 Coach</span><span>
+                                <i class="glyphicon glyphicon-envelope"></i>&nbsp;chris@belvoirtriclub.co.uk</span></div>
+                        <div class="team-about"><p>Consectetur dolor ipsum quiam dolor adipisci velit, 
+                                aenean at lorem vel est posuere feugiat sed quia noneas numquasa mode 
+                                tempora incidunt ipsum.</p>
+                        </div>
+                
+                    </div>
+                </div>         
+
+
+
+
+            </div>
+            <!-- Footer   -->
+            <?php include '../common/footer.php'; ?>
+            <!-- Footer / End --> 
         </div>
         <!-- Wrapper / End -->
-
-        <!-- Footer   -->
-        <?php include '../common/footer.php'; ?>
-        <!-- Footer / End -->
-
-
-    </div> <!-- /container -->
-
-
-
-    <!-- Javascript -->
-    <?php include '../common/js.php'; ?>
-    <script type="text/javascript">
-        $(document).ready(function () {
-            var str = location.href.toLowerCase();
-            console.log(str);
-            $('#nav li a').each(function () {
-                if (str.indexOf(this.href.toLowerCase()) > -1) {
-                    $(this).addClass("active");
-                }
+        <!-- Javascript -->
+        <?php include '../common/js.php'; ?>
+        <script type="text/javascript">
+            $(document).ready(function () {
+                var str = location.href.toLowerCase();
+                console.log(str);
+                $('#nav li a').each(function () {
+                    if (str.indexOf(this.href.toLowerCase()) > -1) {
+                        $(this).addClass("active");
+                    }
+                });
             });
-        });
-    </script>
-</body>
+        </script>
+    </body>
 </html>

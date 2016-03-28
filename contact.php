@@ -26,7 +26,9 @@
             <!-- Content -->
             <div class="panel panel-body">
                 <h1>Contact Us</h1>    
+                <p>You can contact us at the following email address</p>
                 
+                <p><span><i class="glyphicon glyphicon-envelope"></i><a href="mailto:info@belvoirtriclub.co.uk">&nbsp;info@belvoirtriclub.co.uk</a></span></p>
             </div>
             <!-- End Content -->
             <!-- Footer   -->

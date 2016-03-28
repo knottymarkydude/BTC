@@ -109,7 +109,7 @@
     transition: all 0.1s ease-in-out;
 }
 #navigation ul li a.active  {
-    background: #DB4105;
+    background: #9A0714;
     color: #fff;
     -webkit-transition: all 0.1s ease-in-out;
     -moz-transition: all 0.1s ease-in-out;

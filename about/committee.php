@@ -30,6 +30,7 @@
 
             <!-- Content -->
             <div class="panel panel-body">
+                <h1>The Committee</h1>
                 <div class="entry-content">
                     <p>The current committee is as follows:</p>
                     <p><strong>Chairman: </strong><a href="mailto:blake@belvoirtriclub.co.uk">Blake Hutchinson</a></p>

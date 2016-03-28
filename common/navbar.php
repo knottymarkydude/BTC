@@ -26,6 +26,6 @@
         
     </ul>
 </div>
-<div class="nav-shadow"></div>
+
 <div class="clear"></div>
 <!-- Navigation / End -->
