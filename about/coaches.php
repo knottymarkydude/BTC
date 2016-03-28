@@ -44,7 +44,7 @@
                 </div>
 
                 <div class="span4">
-                    <div class="headline "><h4>Do this</h4></div>
+                    <div class="headline "><h4>Do this or that</h4></div>
 
                     <!-- Large Notice -->
                     <div class="well">
