@@ -26,7 +26,7 @@
             <!-- Content -->
             <div class="panel panel-body">
                 <h1>Gallery</h1>
-                
+                <p>Images here</p>
             </div>
             <!-- End Content -->
             <!-- Footer   -->
