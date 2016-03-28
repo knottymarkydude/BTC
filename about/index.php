@@ -49,7 +49,9 @@
                 </p>
                 
                 <p>
-                   We are affiliated to Triathlon England, UKA and CTT.
+                    We are affiliated to <a href="http://www.triathlonengland.org/" target="_blank">Triathlon England</a>, 
+                    <a href="http://www.britishathletics.org.uk/" target="_blank">UKA</a> and 
+                    <a href="https://www.cyclingtimetrials.org.uk/" target="_blank">CTT</a>.
                 </p>
             </div>
             <!-- Footer   -->

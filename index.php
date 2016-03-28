@@ -24,16 +24,26 @@
             </div>
             <!-- Navigation / End -->
             <!-- Content -->
-            <!-- Flex Slider -->
-            <section class="slider">
-                <div class="flexslider home">
-                    <ul class="slides">
-
-                        <li><img src="images/sessions/bike/parkrun.jpg" alt="" /></li>
-                        <li><img src="images/sessions/bike/bike-ride.jpg" alt="" /></li>
-                    </ul>
+            <div class="panel panel-body">
+                <div class="row-fluid">
+                    <div class="col-md-8">
+                        <!-- Flex Slider -->
+                        <section class="slider">
+                            <div class="flexslider home">
+                                <ul class="slides">
+                                    <li><img src="images/sessions/bike/parkrun.jpg" alt="" /></li>
+                                    <li><img src="images/sessions/bike/bike-ride.jpg" alt="" /></li>
+                                    <li><img src="images/events/btc-classic-sportive-2016.jpg" alt="" /></li>
+                                    <li><img src="images/events/stathern-duathlon-2016-1.jpg" alt="" /></li>
+                                </ul>
+                            </div>
+                        </section>
+                    </div>
+                    <div class="col-md-4">
+                    <iframe src="https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=600&amp;wkst=2&amp;bgcolor=%23ffffff&amp;src=bhkkpl2ad67ij4r9hfteijskb4%40group.calendar.google.com&amp;color=%23711616&amp;ctz=Europe%2FLondon" style="border-width:0" width="100%" height="600" frameborder="0" scrolling="no"></iframe>    
+                    </div>
                 </div>
-            </section>
+            </div>
             <!-- Footer   -->
             <?php include 'common/footer.php'; ?>
             <!-- Footer / End -->

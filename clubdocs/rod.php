@@ -26,7 +26,17 @@
             <!-- Navigation / End -->
             <!-- Content -->
             <div class="panel panel-body">
-                <h1>Records Of Decision</h1>
+                <h1 class='headline'>Records Of Decision</h1>
+                <div>
+                    <p><span class="glyphicon glyphicon-book"></span>&nbsp;<a href="../docs/rod/20150127-BTC_RoDs.pdf">Committee Meeting - 27 Jan 2015</a></p>
+                    <p><span class="glyphicon glyphicon-book"></span>&nbsp;<a href="../docs/rod/20150318-BTC_RoDs.pdf">Committee Meeting - 18 March 2015</a></p>
+                    <p><span class="glyphicon glyphicon-book"></span>&nbsp;<a href="../docs/rod/20150508-BTC_RoDs.pdf">Committee Meeting - 5 May 2015</a></p>
+                    <p><span class="glyphicon glyphicon-book"></span>&nbsp;<a href="../docs/rod/20150623-BTC_RoDs.pdf">Committee Meeting - 15 June 2015</a></p>
+                    <p><span class="glyphicon glyphicon-book"></span>&nbsp;<a href="../docs/rod/20150902-BTC_RoDs.pdf">Committee Meeting - 1 Sept 2015</a></p>
+                    <p><span class="glyphicon glyphicon-book"></span>&nbsp;<a href="../docs/rod/20150911-BTC-RODs.pdf">Committee Meeting - 9 Nov 2015</a></p>
+                    <p><span class="glyphicon glyphicon-book"></span>&nbsp;<a href="../docs/rod/20160111-BTC-RODs.pdf">Committee Meeting - 11 Jan 2016</a></p>
+
+                </div>
             </div>
             <!-- Footer   -->
             <?php include '../common/footer.php'; ?>

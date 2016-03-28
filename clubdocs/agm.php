@@ -26,7 +26,10 @@
             <!-- Navigation / End -->
             <!-- Content -->
             <div class="panel panel-body">
-                <h1>AGM</h1>
+                <h1>AGM Documents</h1>
+                <p>A list of the minutes from the club AGM's</p>
+                <p><span class="glyphicon glyphicon-book"></span>&nbsp;<a href="../docs/agm/BELVOIR-TRIATHLON-CLUB-AGM-Minutes-051015.pdf">AGM 2015</a></p>
+                
             </div>
             <!-- Footer   -->
             <?php include '../common/footer.php'; ?>
