@@ -25,8 +25,76 @@
             <!-- Navigation / End -->
             <!-- Content -->
             <div class="panel panel-body">
-                <h1>Gallery</h1>
-                <p>Images here</p>
+                <div class="col-md-3">
+                    <div class="picture">
+                        <a class="fancybox" rel="gallery1" href="../images/gallery/large/11406786_847909845300414_7028643864143648138_n.jpg"  title="Image Title">
+                            <img src="../images/gallery/small/11406786_847909845300414_7028643864143648138_n.jpg" alt=""/>
+                            <div class="image-overlay-zoom">
+                            </div>
+                        </a>            
+                    </div>
+                    <div class="item-description">
+                        <h5><a href="#">Image Title</a></h5>
+                        <p>Description of the Image</p>
+                    </div>
+                </div>
+                <div class="col-md-3">
+                    <div class="picture">
+                        <a class="fancybox" rel="gallery1" href="../images/gallery/large/535258_10208973249952638_4284778039965017177_n.jpg" title="Image Title"><img src="../images/gallery/small/535258_10208973249952638_4284778039965017177_n.jpg" alt=""/><div class="image-overlay-zoom"></div></a></div>
+                    <div class="item-description">
+                        <h5><a href="#">Image Title</a></h5>
+                        <p>Description of the Image</p>
+                    </div>
+                </div>
+                <div class="col-md-3">
+                    <div class="picture">
+                        <a class="fancybox" rel="gallery1" href="../images/gallery/large/5512_910343015751549_115314690399368639_n.jpg" title="Image Title"><img src="../images/gallery/small/5512_910343015751549_115314690399368639_n.jpg" alt=""/><div class="image-overlay-zoom"></div></a></div>
+                    <div class="item-description">
+                        <h5><a href="#">Image Title</a></h5>
+                        <p>Description of the Image</p>
+                    </div>
+                </div>
+                <div class="col-md-3">
+                    <div class="picture">
+                        <a class="fancybox" rel="gallery1" href="../images/gallery/large/5744_10100186467182863_8391701276193427314_n.jpg" title="Image Title"><img src="../images/gallery/small/5744_10100186467182863_8391701276193427314_n.jpg" alt=""/><div class="image-overlay-zoom"></div></a></div>
+                    <div class="item-description">
+                        <h5><a href="#">Image Title</a></h5>
+                        <p>Description of the Image</p>
+                    </div>
+                </div>
+                <div class="col-md-3">
+                    <div class="picture">
+                        <a class="fancybox" rel="gallery1" href="../images/gallery/large/11406786_847909845300414_7028643864143648138_n.jpg" title="Image Title"><img src="../images/gallery/small/11406786_847909845300414_7028643864143648138_n.jpg" alt=""/><div class="image-overlay-zoom"></div></a></div>
+                    <div class="item-description">
+                        <h5><a href="#">Image Title</a></h5>
+                        <p>Description of the Image</p>
+                    </div>
+                </div>
+                <div class="col-md-3">
+                    <div class="picture">
+                        <a class="fancybox" rel="gallery1" href="../images/gallery/large/535258_10208973249952638_4284778039965017177_n.jpg" title="Image Title"><img src="../images/gallery/small/535258_10208973249952638_4284778039965017177_n.jpg" alt=""/><div class="image-overlay-zoom"></div></a></div>
+                    <div class="item-description">
+                        <h5><a href="#">Image Title</a></h5>
+                        <p>Description of the Image</p>
+                    </div>
+                </div>
+                <div class="col-md-3">
+                    <div class="picture fancybox">
+                        <a class="fancybox" rel="gallery1" href="../images/gallery/large/5512_910343015751549_115314690399368639_n.jpg" title="Image Title"><img src="../images/gallery/small/5512_910343015751549_115314690399368639_n.jpg" alt=""/><div class="image-overlay-zoom"></div></a></div>
+                    <div class="item-description">
+                        <h5><a href="#">Image Title</a></h5>
+                        <p>Description of the Image</p>
+                    </div>
+                </div>
+                <div class="col-md-3">
+                    <div class="picture">
+                        <a class="fancybox" rel="gallery1" href="../images/gallery/large/5744_10100186467182863_8391701276193427314_n.jpg" title="Image Title"><img src="../images/gallery/small/5744_10100186467182863_8391701276193427314_n.jpg" alt=""/><div class="image-overlay-zoom"></div></a></div>
+                    <div class="item-description">
+                        <h5><a href="#">Image Title</a></h5>
+                        <p>Description of the Image</p>
+                    </div>
+                </div>
+                
             </div>
             <!-- End Content -->
             <!-- Footer   -->
@@ -40,13 +108,17 @@
         <script type="text/javascript">
             $(document).ready(function () {
                 var str = location.href.toLowerCase();
-                console.log(str);
                 $('#nav li a').each(function () {
                     if (str.indexOf(this.href.toLowerCase()) > -1) {
                         $(this).addClass("active");
                     }
                 });
+                $(".fancybox").fancybox();
             });
+            
+            
+	
+		
         </script>
     </body>
 </html>

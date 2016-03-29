@@ -35,11 +35,25 @@
                 </div>
                 <div class="row-fluid">
                     <!-- Standard Structure -->
+
                     <div class="col-md-4">
                         <img src="../images/coaches/karlhunt300.jpg" alt="" class="img-circle"/>
                         <div class="staff"><h5>Karl Hunt</h5> <span>L2 Coach</span>
                             <span>
                                 <i class="glyphicon glyphicon-envelope"></i>&nbsp;karl@belvoirtriclub.co.uk
+                            </span>
+                        </div>
+                        <div class="team-about"><p>Consectetur dolor ipsum quiam dolor adipisci velit, 
+                                aenean at lorem vel est posuere feugiat sed quia noneas numquasa mode 
+                                tempora incidunt ipsum.</p>
+                        </div>
+
+                    </div>
+                    <div class="col-md-4">
+                        <img src="../images/coaches/staff-3.jpg" alt="" class="img-circle"/>
+                        <div class="staff"><h5>Stefan Lawrence</h5> <span>L2 Coach</span>
+                            <span>
+                                <i class="glyphicon glyphicon-envelope"></i>&nbsp;stefan@belvoirtriclub.co.uk
                             </span>
                         </div>
                         <div class="team-about"><p>Consectetur dolor ipsum quiam dolor adipisci velit, 
@@ -59,7 +73,7 @@
                                 aenean at lorem vel est posuere feugiat sed quia noneas numquasa mode 
                                 tempora incidunt ipsum.</p>
                         </div>
-                        
+
                     </div>
                     <div class="col-md-4">
                         <img src="../images/coaches/markwilson300.jpg" alt="" class="img-circle"/>
@@ -69,7 +83,6 @@
                                 aenean at lorem vel est posuere feugiat sed quia noneas numquasa mode 
                                 tempora incidunt ipsum.</p>
                         </div>
-                 
                     </div>
                     <div class="col-md-4">
                         <img src="../images/coaches/staff-1.jpg" alt="" class="img-circle"/>
@@ -79,7 +92,7 @@
                                 aenean at lorem vel est posuere feugiat sed quia noneas numquasa mode 
                                 tempora incidunt ipsum.</p>
                         </div>
-                        
+
                     </div>
                     <div class="col-md-4">
                         <img src="../images/coaches/catherinedavies300.jpg" alt="" class="img-circle"/>
@@ -89,18 +102,18 @@
                                 aenean at lorem vel est posuere feugiat sed quia noneas numquasa mode 
                                 tempora incidunt ipsum.</p>
                         </div>
-                  
+
                     </div>
 
                     <div class="col-md-4">
-                        <img src="../images/coaches/staff-1.jpg" alt="" class="img-circle"/>
+                        <img src="../images/coaches/staff-2.jpg" alt="" class="img-circle"/>
                         <div class="staff"><h5>Claire Armstrong</h5> <span>L1 Coach</span><span>
                                 <i class="glyphicon glyphicon-envelope"></i>&nbsp;claire@belvoirtriclub.co.uk</span></div>
                         <div class="team-about"><p>Consectetur dolor ipsum quiam dolor adipisci velit, 
                                 aenean at lorem vel est posuere feugiat sed quia noneas numquasa mode 
                                 tempora incidunt ipsum.</p>
                         </div>
-                
+
                     </div>
 
                     <div class="col-md-4">
@@ -111,9 +124,9 @@
                                 aenean at lorem vel est posuere feugiat sed quia noneas numquasa mode 
                                 tempora incidunt ipsum.</p>
                         </div>
-                
+
                     </div>
-                    
+
                     <div class="col-md-4">
                         <img src="../images/coaches/chrispugh300.jpg" alt="" class="img-circle"/>
                         <div class="staff"><h5>Chris Pugh</h5> <span>L1 Coach</span><span>
@@ -122,7 +135,17 @@
                                 aenean at lorem vel est posuere feugiat sed quia noneas numquasa mode 
                                 tempora incidunt ipsum.</p>
                         </div>
-                
+
+                    </div>
+                    <div class="col-md-4">
+                        <img src="../images/coaches/staff-3.jpg" alt="" class="img-circle"/>
+                        <div class="staff"><h5>Mick Oliver</h5> <span>L1 Coach</span><span>
+                                <i class="glyphicon glyphicon-envelope"></i>&nbsp;mick@belvoirtriclub.co.uk</span></div>
+                        <div class="team-about"><p>Consectetur dolor ipsum quiam dolor adipisci velit, 
+                                aenean at lorem vel est posuere feugiat sed quia noneas numquasa mode 
+                                tempora incidunt ipsum.</p>
+                        </div>
+
                     </div>
                 </div>         
 
