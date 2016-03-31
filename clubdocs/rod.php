@@ -54,6 +54,7 @@
                         $(this).addClass("active");
                     }
                 });
+                $("#clubdocs").addClass("active");
             });
         </script>
     </body>

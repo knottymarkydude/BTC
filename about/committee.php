@@ -70,6 +70,7 @@
                         $(this).addClass("active");
                     }
                 });
+                $("#about").addClass("active");
             });
         </script>
     </body>

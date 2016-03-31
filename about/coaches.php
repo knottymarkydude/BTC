@@ -148,11 +148,7 @@
 
                     </div>
                 </div>         
-
-
-
-
-            </div>
+       </div>
             <!-- Footer   -->
             <?php include '../common/footer.php'; ?>
             <!-- Footer / End --> 
@@ -169,6 +165,7 @@
                         $(this).addClass("active");
                     }
                 });
+                $("#about").addClass("active");
             });
         </script>
     </body>
