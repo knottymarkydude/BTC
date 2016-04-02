@@ -43,25 +43,10 @@
                                 <i class="glyphicon glyphicon-envelope"></i>&nbsp;karl@belvoirtriclub.co.uk
                             </span>
                         </div>
-                        <div class="team-about"><p>Consectetur dolor ipsum quiam dolor adipisci velit, 
-                                aenean at lorem vel est posuere feugiat sed quia noneas numquasa mode 
-                                tempora incidunt ipsum.</p>
-                        </div>
+
 
                     </div>
-                    <div class="col-md-4">
-                        <img src="../images/coaches/staff-3.jpg" alt="" class="img-circle"/>
-                        <div class="staff"><h5>Stefan Lawrence</h5> <span>L2 Coach</span>
-                            <span>
-                                <i class="glyphicon glyphicon-envelope"></i>&nbsp;stefan@belvoirtriclub.co.uk
-                            </span>
-                        </div>
-                        <div class="team-about"><p>Consectetur dolor ipsum quiam dolor adipisci velit, 
-                                aenean at lorem vel est posuere feugiat sed quia noneas numquasa mode 
-                                tempora incidunt ipsum.</p>
-                        </div>
 
-                    </div>
                     <div class="col-md-4">
                         <img src="../images/coaches/martinjolly300.jpg" alt="" class="img-circle"/>
                         <div class="staff"><h5>Martin Jolly</h5> <span>L2 Coach</span>
@@ -69,86 +54,58 @@
                                 <i class="glyphicon glyphicon-envelope"></i>&nbsp;martin@belvoirtriclub.co.uk
                             </span>
                         </div>
-                        <div class="team-about"><p>Consectetur dolor ipsum quiam dolor adipisci velit, 
-                                aenean at lorem vel est posuere feugiat sed quia noneas numquasa mode 
-                                tempora incidunt ipsum.</p>
-                        </div>
+
 
                     </div>
                     <div class="col-md-4">
                         <img src="../images/coaches/markwilson300.jpg" alt="" class="img-circle"/>
                         <div class="staff"><h5>Mark Wilson</h5> <span>L2 Coach</span><span>
                                 <i class="glyphicon glyphicon-envelope"></i>&nbsp;markw@belvoirtriclub.co.uk</span></div>
-                        <div class="team-about"><p>Consectetur dolor ipsum quiam dolor adipisci velit, 
-                                aenean at lorem vel est posuere feugiat sed quia noneas numquasa mode 
-                                tempora incidunt ipsum.</p>
-                        </div>
+
                     </div>
                     <div class="col-md-4">
-                        <img src="../images/coaches/staff-1.jpg" alt="" class="img-circle"/>
-                        <div class="staff"><h5>Gerry Hyde</h5> <span>L1 Coach</span><span>
+                        <img src="../images/coaches/geryhyde300.jpg" alt="" class="img-circle"/>
+                        <div class="staff"><h5>Gerry Hyde</h5> <span>L2 Coach</span><span>
                                 <i class="glyphicon glyphicon-envelope"></i>&nbsp;gerry@belvoirtriclub.co.uk</span></div>
-                        <div class="team-about"><p>Consectetur dolor ipsum quiam dolor adipisci velit, 
-                                aenean at lorem vel est posuere feugiat sed quia noneas numquasa mode 
-                                tempora incidunt ipsum.</p>
-                        </div>
+
 
                     </div>
                     <div class="col-md-4">
                         <img src="../images/coaches/catherinedavies300.jpg" alt="" class="img-circle"/>
                         <div class="staff"><h5>Catherine Davies</h5> <span>L1 Coach</span><span>
                                 <i class="glyphicon glyphicon-envelope"></i>&nbsp;catherine@belvoirtriclub.co.uk</span></div>
-                        <div class="team-about"><p>Consectetur dolor ipsum quiam dolor adipisci velit, 
-                                aenean at lorem vel est posuere feugiat sed quia noneas numquasa mode 
-                                tempora incidunt ipsum.</p>
-                        </div>
+
 
                     </div>
 
                     <div class="col-md-4">
-                        <img src="../images/coaches/staff-2.jpg" alt="" class="img-circle"/>
+                        <img src="../images/coaches/clairearmstrong300.jpg" alt="" class="img-circle"/>
                         <div class="staff"><h5>Claire Armstrong</h5> <span>L1 Coach</span><span>
                                 <i class="glyphicon glyphicon-envelope"></i>&nbsp;claire@belvoirtriclub.co.uk</span></div>
-                        <div class="team-about"><p>Consectetur dolor ipsum quiam dolor adipisci velit, 
-                                aenean at lorem vel est posuere feugiat sed quia noneas numquasa mode 
-                                tempora incidunt ipsum.</p>
-                        </div>
+
 
                     </div>
-
-                    <div class="col-md-4">
-                        <img src="../images/coaches/staff-1.jpg" alt="" class="img-circle"/>
-                        <div class="staff"><h5>Ashleigh Graham</h5> <span>L1 Coach</span><span>
-                                <i class="glyphicon glyphicon-envelope"></i>&nbsp;ashleigh@belvoirtriclub.co.uk</span></div>
-                        <div class="team-about"><p>Consectetur dolor ipsum quiam dolor adipisci velit, 
-                                aenean at lorem vel est posuere feugiat sed quia noneas numquasa mode 
-                                tempora incidunt ipsum.</p>
-                        </div>
-
-                    </div>
-
                     <div class="col-md-4">
                         <img src="../images/coaches/chrispugh300.jpg" alt="" class="img-circle"/>
                         <div class="staff"><h5>Chris Pugh</h5> <span>L1 Coach</span><span>
                                 <i class="glyphicon glyphicon-envelope"></i>&nbsp;chris@belvoirtriclub.co.uk</span></div>
-                        <div class="team-about"><p>Consectetur dolor ipsum quiam dolor adipisci velit, 
-                                aenean at lorem vel est posuere feugiat sed quia noneas numquasa mode 
-                                tempora incidunt ipsum.</p>
-                        </div>
+
 
                     </div>
                     <div class="col-md-4">
-                        <img src="../images/coaches/staff-3.jpg" alt="" class="img-circle"/>
+                        <img src="../images/coaches/mickoliver300.jpg" alt="" class="img-circle"/>
                         <div class="staff"><h5>Mick Oliver</h5> <span>L1 Coach</span><span>
                                 <i class="glyphicon glyphicon-envelope"></i>&nbsp;mick@belvoirtriclub.co.uk</span></div>
-                        <div class="team-about"><p>Consectetur dolor ipsum quiam dolor adipisci velit, 
-                                aenean at lorem vel est posuere feugiat sed quia noneas numquasa mode 
-                                tempora incidunt ipsum.</p>
-                        </div>
-
                     </div>
-                </div>         
-       </div>
+                </div>    
+                <div class="col-md-4">
+                    <img src="../images/coaches/staff-1.jpg" alt="" class="img-circle"/>
+                    <div class="staff"><h5>Ashleigh Graham</h5> <span>L1 Coach</span><span>
+                            <i class="glyphicon glyphicon-envelope"></i>&nbsp;ashleigh@belvoirtriclub.co.uk</span></div>
+
+
+                </div>
+            </div>
             <!-- Footer   -->
             <?php include '../common/footer.php'; ?>
             <!-- Footer / End --> 

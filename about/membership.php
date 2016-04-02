@@ -7,7 +7,7 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-        <title>Belvoir Tri Club</title>
+        <title>Membership - Belvoir Tri Club</title>
         <?php include '../common/css.php'; ?>
 
     </head>
@@ -26,32 +26,27 @@
             <!-- Navigation / End -->
             <!-- Content -->
             <div class="panel panel-body">
-                <p>
-                    <img class="thumbnail" src="../images/events/btc-group-1-s.jpg" align="right" alt="2016 Training with Lucy & Mark">
-                    Belvoir Tri Club is based in and around the Vale Of 
-                    Belvoir centered in Grantham. Founded in 2012 by a 
-                    group of like-minded individuals who wanted to form 
-                    their own relaxed and friendly triathlon club. In 2014 
-                    the club has seen an injection of new committee members 
-                    who have moved the club from a group of mates to the 
-                    latest and best club in Lincolnshire.
-                </p>
-                <p>
-                    Our members range from first time novices through to the seasoned 
-                    pro, aging from 18 to 60+. Members race over every distance from Sprint to 
-                    Ironman. For a young club, we are very proud that a growing number of our 
-                    members have represented the GB age group team at European and World Championship Level.
-                </p>
-                <p>
-                    As the club has grown, so too has its members’ interests and we now consider ourselves as a multi sports club 
-                    with members regularly taking part in triathlons, cycling, open water swimming and running races.
-                </p>
+                <h3>Membership</h3>
+
                 
                 <p>
-                    We are affiliated to <a href="http://www.triathlonengland.org/" target="_blank">Triathlon England</a>, 
-                    <a href="http://www.britishathletics.org.uk/" target="_blank">UKA</a> and 
-                    <a href="https://www.cyclingtimetrials.org.uk/" target="_blank">CTT</a>.
-                </p>
+                    <img class="img-thumbnail" src="../images/sessions/run/parkrun300.jpg" align="right" alt="Membership">
+                    Belvoir Tri Club take pride in offering an unbelievably low membership fee with amazing benefits worth twice its value. 
+                    Whether you are a Triathlete, Duathlete, Cyclist, Runner, or simply want to train with like-minded individuals, then this is the club for you. If you are interested in membership, please drop an email to <a href="mailto:info@belvoirtriclub.co.uk">info@belvoirtriclub.co.uk</a></p>
+                <p>There are a bunch of member benefits including but not limited to:</p>
+                <ul>
+                    <li>10% off one-to-one training with Tri-SL Training</li>
+                    <li>10% off at Lincolnshire Runner</li>
+                    <li>10% off at CycleSport Grantham</li>
+                    <li>10% off Thomas Cook Charter Packages (<a href="mailto:info@belvoirtriclub.co.uk">email</a> us for details)</li>
+                    <li>25% of all products at www.stoneandwater.co.uk</li>
+                    <li>Free Sunday night when you book Friday and Saturday at www.thornsfarmleisure.co.uk</li>
+                    <li>Discounted bike servicing from Fit2try</li>
+                    <li>Discounted BTF membership</li>
+                    <li>Access to great club kit</li>
+                    <li>The opportunity to compete for the club and win club silverware.</li>
+                </ul>
+
             </div>
             <!-- Footer   -->
             <?php include '../common/footer.php'; ?>
@@ -63,12 +58,12 @@
         <script type="text/javascript">
             $(document).ready(function () {
                 var str = location.href.toLowerCase();
-                console.log(str);
                 $('#nav li a').each(function () {
                     if (str.indexOf(this.href.toLowerCase()) > -1) {
                         $(this).addClass("active");
                     }
                 });
+                $("#about").addClass("active");
             });
         </script>
     </body>

@@ -31,7 +31,7 @@
                         <section class="slider">
                             <div class="flexslider home">
                                 <ul class="slides">
-                                    <li><img src="images/sessions/bike/parkrun.jpg" alt="" /></li>
+                                    <li><img src="images/sessions/run/parkrun.jpg" alt="" /></li>
                                     <li><img src="images/sessions/bike/bike-ride.jpg" alt="" /></li>
                                     <li><img src="images/events/btc-classic-sportive-2016.jpg" alt="" /></li>
                                     <li><img src="images/events/stathern-duathlon-2016-1.jpg" alt="" /></li>

@@ -7,7 +7,7 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <title>Contact Us</title>
-        <?php include 'common/css.php'; ?>
+        <?php include '../common/css.php'; ?>
     </head>
     <body>
         <!-- Wrapper Start -->
@@ -15,9 +15,9 @@
             <!-- Header -->
             <div class="ie-dropdown-fix" >
                 <!-- Header -->
-                <?php include 'common/header.php'; ?>
+                <?php include '../common/header.php'; ?>
                 <!-- Navigation -->
-                <?php include 'common/navbar.php'; ?>
+                <?php include '../common/navbar.php'; ?>
                 <div class="nav-shadow"></div>
                 <div class="clear"></div>
 
@@ -32,13 +32,13 @@
             </div>
             <!-- End Content -->
             <!-- Footer   -->
-            <?php include 'common/footer.php'; ?>
+            <?php include '../common/footer.php'; ?>
             <!-- Footer / End -->
         </div>
         <!-- Wrapper / End -->
 
         <!-- Javascript -->
-        <?php include 'common/js.php'; ?>
+        <?php include '../common/js.php'; ?>
         <script type="text/javascript">
             $(document).ready(function () {
                 var str = location.href.toLowerCase();
@@ -48,6 +48,7 @@
                         $(this).addClass("active");
                     }
                 });
+                $("#about").addClass("active");
             });
         </script>
     </body>
