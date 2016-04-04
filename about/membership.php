@@ -33,7 +33,7 @@
                         Belvoir Tri Club take pride in offering an unbelievably low membership fee with amazing benefits worth twice its value. 
                         Whether you are a Triathlete, Duathlete, Cyclist, Runner, or simply want to train with like-minded individuals, then this is the club for you. 
                         If you are interested in membership, please drop an email to <a href="mailto:info@belvoirtriclub.co.uk">info@belvoirtriclub.co.uk</a></p>
-                    
+
                     <img class="img-thumbnail" src="../images/sessions/run/parkrun300.jpg" align="left" alt="Membership">
                     <p>There are a bunch of member benefits including but not limited to:</p>
                     <ul class="list-unstyled">
@@ -48,8 +48,8 @@
                         <li>Access to great club kit</li>
                         <li>The opportunity to compete for the club and win club silverware.</li>
                     </ul>
-                    
-                    
+
+
                 </div>
                 <div class="col-md-4">
                     <div class="headline">
@@ -58,8 +58,8 @@
                     <div class="well">
                         <h2>Membership Options</h2>
                         <p>You can join as a single sport, dual sport, or multi-sport member. So, for example, if you just want to participate in the swimming sessions,
-                        you can just join as a single sport member.</p>
-                        <button type="button" class="btn btn-inverse">Join Now!</button>
+                            you can just join as a single sport member.</p>
+                        <button id="joinus" type="button" class="btn btn-inverse">Join Now!</button>
                     </div>
                 </div>
             </div>
@@ -80,6 +80,11 @@
                 });
                 $("#about").addClass("active");
             });
+
+            $("#joinus").click(function () {
+                document.location.href='http://btc-knottymarkdude.rhcloud.com/index.php?route=product/product&path=34&product_id=60';
+            });
+
         </script>
     </body>
 </html>
