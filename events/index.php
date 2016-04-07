@@ -30,7 +30,7 @@
                    <img class="thumbnail" src="" align="right" alt="">
                 </p>
                 <p></p>
-                <p></p>
+                
             </div>
             <!-- Footer   -->
             <?php include '../common/footer.php'; ?>
