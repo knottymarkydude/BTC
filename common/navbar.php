@@ -13,7 +13,7 @@
                 <li><a href="/about/barry.php" id="contact">Barry - The Story</a></li>
             </ul>
         </li>
-        <li><a href="http://www.belvoirtrishop.co.uk/" id="shop" target="_blank">Shop</a>
+        <li><a href="http://btc-knottymarkdude.rhcloud.com/" id="shop" target="_blank">Shop</a>
             <ul>
                 <li><a href="http://btc-knottymarkdude.rhcloud.com/index.php?route=product/category&path=64_33" target="_blank">Kit</a></li>
                 <li><a href="http://btc-knottymarkdude.rhcloud.com/belvoir-tri-club/" target="_blank">SaddleDrunk Shop</a></li>
