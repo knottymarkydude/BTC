@@ -82,7 +82,7 @@
             });
 
             $("#joinus").click(function () {
-                document.location.href='http://www.belvoirtrishop.co.uk/index.php?route=product/product&path=34&product_id=60';
+                document.location.href='http://btc-knottymarkdude.rhcloud.com/index.php?route=product/product&path=34&product_id=60';
             });
 
         </script>
