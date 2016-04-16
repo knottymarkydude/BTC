@@ -2,7 +2,7 @@
 <div class="row-fluid" id="header">
     <!-- Logo -->
     <div class="col-md-10">
-        <a href="/"><img src="../images/header/btc_logo_100w.jpg" alt="logo" /></a>
+        <a href="/"><img src="/images/header/btc_logo_100w.jpg" alt="logo" /></a>
     </div>
 
     <!-- Social / Contact -->

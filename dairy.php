@@ -6,10 +6,8 @@
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-        <title>Club Documents</title>
-        <?php include '../common/css.php'; ?>
-
+        <title>Belvoir Tri Club</title>
+        <?php include 'common/css.php'; ?>
     </head>
     <body>
         <!-- Wrapper Start -->
@@ -17,33 +15,46 @@
             <!-- Header -->
             <div class="ie-dropdown-fix" >
                 <!-- Header -->
-                <?php include '../common/header.php'; ?>
+                <?php include 'common/header.php'; ?>
                 <!-- Navigation -->
-                <?php include '../common/navbar.php'; ?>
+                <?php include 'common/navbar.php'; ?>
                 <div class="nav-shadow"></div>
                 <div class="clear"></div>
+
             </div>
             <!-- Navigation / End -->
+
             <!-- Content -->
+            <div class="row-fluid">
+
+                <!-- Page Title -->
+                <div id="page-title">
+                    <h2>Diary</h2>
+                </div>
+                <!-- Page Title / End -->
+            </div>
+
             <div class="panel panel-body">
-                <h1>Club Documents</h1>
+                <div class="span12">                    
+                    <iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=2&amp;bgcolor=%23ffffff&amp;src=bhkkpl2ad67ij4r9hfteijskb4%40group.calendar.google.com&amp;color=%23711616&amp;ctz=Europe%2FLondon" style="border-width:0" width="100%" height="600" frameborder="0" scrolling="no"></iframe></div>
             </div>
             <!-- Footer   -->
-            <?php include '../common/footer.php'; ?>
-            <!-- Footer / End --> 
+            <?php include 'common/footer.php'; ?>
+            <!-- Footer / End -->
         </div>
         <!-- Wrapper / End -->
+
         <!-- Javascript -->
-        <?php include '../common/js.php'; ?>
+        <?php include 'common/js.php'; ?>
         <script type="text/javascript">
             $(document).ready(function () {
                 var str = location.href.toLowerCase();
+                console.log(str);
                 $('#nav li a').each(function () {
                     if (str.indexOf(this.href.toLowerCase()) > -1) {
                         $(this).addClass("active");
                     }
                 });
-                $("#events").addClass("active");
             });
         </script>
     </body>

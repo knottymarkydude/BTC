@@ -10,22 +10,23 @@
                 <li><a href="/about/membership.php">Membership</a></li>
                 <li><a href="/docs/constitution/BTC-Constitution-January-2016-v1.pdf" target="_blank">Constitution</a>
                 <li><a href="/about/contact.php" id="contact">Contact</a></li>
-                <li><a href="/about/barry.php" id="contact">Barry - The Story</a></li>
+                <li><a href="/about/barry.php" id="barry">Barry - The Story</a></li>
             </ul>
         </li>
-        <li><a href="http://btc-knottymarkdude.rhcloud.com/" id="shop" target="_blank">Shop</a>
+        <li><a href="http://www.belvoirtrishop.co.uk/" id="shop" target="_blank">Shop</a>
             <ul>
-                <li><a href="http://btc-knottymarkdude.rhcloud.com/index.php?route=product/category&path=64_33" target="_blank">Kit</a></li>
-                <li><a href="http://btc-knottymarkdude.rhcloud.com/belvoir-tri-club/" target="_blank">SaddleDrunk Shop</a></li>
-                <li><a href="http://btc-knottymarkdude.rhcloud.com/index.php?route=product/category&path=64_60" target="_blank">Coached Sessions</a></li>
+                <li><a href="http://www.belvoirtrishop.co.uk/index.php?route=product/category&path=64_33" target="_blank">Kit</a></li>
+                <li><a href="http://www.belvoirtrishop.co.uk/belvoir-tri-club/" target="_blank">SaddleDrunk Shop</a></li>
+                <li><a href="http://www.belvoirtrishop.co.uk/index.php?route=product/category&path=64_60" target="_blank">Coached Sessions</a></li>
             </ul>
         </li>
+        <li><a href="/dairy.php" id="diary">Diary</a></li>
         <li><a href="/gallery/index.php" id="gallery">Gallery</a></li>
-        <li><a href="/events/go-tri.php" id="events">Go Tri</a>
-            <!--<ul>
-                <li><a href="/events/go-tri.php">Go Tri</a></li>
-                <li><a href="/events/offroadduathlon.php">Off Road Duathlon</a></li>
-            </ul>-->
+        <li><a href="/events/index.php" id="events">Events</a>
+            <ul>
+                <li><a href="/events/gotri/go-tri.php" id="gotri">Go Tri</a></li>
+                <li><a href="/events/gonerbytuff/index.php" id="gonerbytuff">Gonerby Tuff</a></li>
+            </ul>
         </li>
         <li><a href="/clubdocs/rod.php" id="clubdocs">Club Documents</a>
             <ul>

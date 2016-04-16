@@ -26,10 +26,24 @@
             <!-- Navigation / End -->
             <!-- Content -->
             <div class="panel panel-body">
-                <p>
-                   <img class="thumbnail" src="" align="right" alt="">
-                </p>
-                <p></p>
+                <div class="col-md-6 portfolio-item">
+                    <div class="picture"><a href="/events/gotri/go-tri.php" rel="image" title="Go-Tri"><img src="/images/events/go-tri-400.png" alt=""/><div class="image-overlay-zoom"></div></a></div>
+				<div class="item-description alt">
+                                    <h5><a href="/events/gotri/go-tri.php">Go-Tri</a></h5>
+				<p>The Belvoir Tri Club GO Tri Aquathlon Series will take place at The Meres Leisure 
+                                    Centre in Grantham and is first and foremost aimed at newcomers to the sport but 
+                                    is open to all athletes of all abilities and levels of fitness. Due to there not 
+                                    being a need for a bike, this is a great and low cost event (just £5) to embark 
+                                    on your multisport calling.</p>
+			</div>
+		</div>
+                <div class="col-md-6 portfolio-item">
+                    <div class="picture"><a href="/events/gonerbytuff/index.php" rel="image" title="Gonerby Tuff"><img src="/images/events/gonerbytuff-400.jpg" alt=""/><div class="image-overlay-zoom"></div></a></div>
+				<div class="item-description alt">
+                                    <h5><a href="/events/gonerbytuff/index.php">Gonerby Tuff - Off Road Duathlon</a></h5>
+				<p></p>
+			</div>
+		</div>
                 
             </div>
             <!-- Footer   -->
