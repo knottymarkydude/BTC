@@ -25,6 +25,19 @@
             <!-- Navigation / End -->
             <!-- Content -->
             <div class="panel panel-body">
+               
+                <div class="col-md-3">
+                    <div class="picture">
+                    <a data-flickr-embed="true"  href="https://www.flickr.com/photos/markymarkdude/albums/72157667897069752" title="Grantham Sprint Tri 2016">
+                        <img src="https://farm8.staticflickr.com/7534/26291138563_8b9eb07b1b.jpg" width="500" height="332" alt="Grantham Sprint Tri 2016"></a>
+                        <script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+                    </div>
+                    <div class="item-description">
+                        <h5><a href="#">Grantham Tri 2016</a></h5>
+                        <p>Club Sprint Tri.</p>
+                    </div>
+                </div>
+                
                 <div class="col-md-3">
                     <div class="picture">
                         <a class="fancybox" rel="gallery1" href="../images/gallery/large/gallery-09.jpg"  title="Belvoir Tri Club">

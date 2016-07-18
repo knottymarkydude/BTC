@@ -1,4 +1,4 @@
-<link rel="shortcut icon" href="favicon.ico" />
+<link rel="shortcut icon" href="/favicons/favicon.ico" />
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 <link href='http://fonts.googleapis.com/css?family=Carrois+Gothic' rel='stylesheet' type='text/css'>
 <!-- CSS -->

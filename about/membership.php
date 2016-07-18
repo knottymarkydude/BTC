@@ -40,7 +40,7 @@
                         <li>10% off one-to-one training with Tri-SL Training</li>
                         <li>10% off at Lincolnshire Runner</li>
                         <li>10% off at CycleSport Grantham</li>
-                        <li>10% off Thomas Cook Charter Packages (<a href="mailto:info@belvoirtriclub.co.uk">email</a> us for details)</li>
+                        <li>5% off Thomas Cook Charter Packages (<a href="mailto:info@belvoirtriclub.co.uk">email</a> us for details)</li>
                         <li>25% of all products at www.stoneandwater.co.uk</li>
                         <li>Free Sunday night when you book Friday and Saturday at www.thornsfarmleisure.co.uk</li>
                         <li>Discounted bike servicing from Fit2try</li>

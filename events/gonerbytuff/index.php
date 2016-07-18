@@ -37,27 +37,25 @@
                             <li class=""><a href="#course" data-toggle="tab">Course</a></li>
                             <li class=""><a href="#entry" data-toggle="tab">Entry</a></li>
                             <li class=""><a href="#info" data-toggle="tab">Information</a></li>
+                            <li class=""><a href="#results" data-toggle="tab">Results</a></li>
                         </ul>
 
                         <div id="myTabContent" class="tab-content">
                             <div class="tab-pane fade active in" id="home">
-
+                                <div class="well">
+                                    <h4>Race HQ</h4>
+                                    Belton Lane, <br/>
+                                    Great Gonerby, <br/>
+                                    Grantham, <br/>
+                                    Lincs, <br/>
+                                    NG31 8PP<br/>
+                                    (Opposite Playing Field)<br/>
+                                </div>
                                 <div class="span6 portfolio-item">
                                     <div class="hero-unit margintop">
                                         <div>
                                             <h4>Race starts on 5pm on Saturday July 9th 2016</h4>
                                         </div>
-
-                                        <div class="well">
-                                            <h4>Race HQ</h4>
-                                            Belton Lane, <br/>
-                                            Great Gonerby, <br/>
-                                            Grantham, <br/>
-                                            Lincs, <br/>
-                                            NG31 8PP<br/>
-                                            (Opposite Playing Field)<br/>
-                                        </div>
-
                                         <div>
                                             <p>A challenging off road duathlon featuring some 
                                                 tough hills and spectacular views. </p>
@@ -68,7 +66,6 @@
                                 </div>
                             </div>
                             <div class="tab-pane fade active in" id="course">
-
                                 <div class="well">
                                     <div class="hero-unit margintop">
                                         <h4>THE COURSE</h4>
@@ -84,7 +81,7 @@
                                     <div class="hero-unit margintop">
                                         <p>ENTRANCE FEE £10 in advance, £12 on the day including FREE beer or soft 
                                             drink and burger or hot dog.</p>
-                                        <p>ENTER ONLINE AT http://www.belvoirtriclub.co.uk/gonerbytuff</p>
+                                        <!--<p>ENTER ONLINE AT http://www.belvoirtriclub.co.uk/gonerbytuff</p>-->
                                     </div>
                                 </div>
 
@@ -100,6 +97,12 @@
                                                 on a lead at all times</li>
                                         </ul>                               
                                     </div>
+                                </div>
+                            </div>
+                            <div class="tab-pane fade active in" id="results">
+
+                                <div class="well">
+                                    <a href="../../docs/club/gonerbytuff/Results 2016.pdf">Results 2016</a>
                                 </div>
                             </div>
                         </div>
