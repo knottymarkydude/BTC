@@ -35,6 +35,7 @@
                     <p><span class="glyphicon glyphicon-book"></span>&nbsp;<a href="../docs/rod/20150902-BTC_RoDs.pdf">Committee Meeting - 1 Sept 2015</a></p>
                     <p><span class="glyphicon glyphicon-book"></span>&nbsp;<a href="../docs/rod/20150911-BTC-RODs.pdf">Committee Meeting - 9 Nov 2015</a></p>
                     <p><span class="glyphicon glyphicon-book"></span>&nbsp;<a href="../docs/rod/20160111-BTC-RODs.pdf">Committee Meeting - 11 Jan 2016</a></p>
+                    <p><span class="glyphicon glyphicon-book"></span>&nbsp;<a href="../docs/rod/20161031-BTC-RODs.pdf">Committee Meeting - 31 Oct 2016</a></p>
 
                 </div>
             </div>

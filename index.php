@@ -11,17 +11,7 @@
         <?php include 'common/css.php'; ?>
     </head>
     <body>
-        <div id="fb-root"></div>
-        <script>(function (d, s, id) {
-                var js, fjs = d.getElementsByTagName(s)[0];
-                if (d.getElementById(id))
-                    return;
-                js = d.createElement(s);
-                js.id = id;
-                js.src = "//connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.6&appId=1465832813629637";
-                fjs.parentNode.insertBefore(js, fjs);
-            }(document, 'script', 'facebook-jssdk'));
-        </script>
+
         <!-- Wrapper Start -->
         <div id="wrapper" class="container-fluid">
             <!-- Header -->
@@ -38,6 +28,49 @@
             <!-- Content -->
             <div class="panel panel-body">
                 <div class="row-fluid">
+                    
+                    <div class="col-md-9">
+                        <div class="widget no-margin">
+                            <div class="headline no-margin"><h4>A glimpse at what we get up to.</h4></div>
+                            <!-- Flex Slider -->
+                            <section class="slider">
+                                <div class="flexslider home">
+                                    <ul class="slides">
+                                        <li><img src="images/events/2016-clumber-park-duathlon.jpg" alt="clumber-park-duathlon"/></li>
+                                        <li><img src="images/events/2016-peterborough-half.jpg" alt="2016-peterborough-half"/></li>
+                                        <li><img src="images/events/hv/hv9.jpg" alt="Helvellyn Tri 2016" /></li>
+                                        <li><img src="images/events/hv/hv2.jpg" alt="Helvellyn Tri 2016" /></li>
+                                        <li><img src="images/gallery/large/gallery-06.jpg" alt="Grantham Sprint Tri 2016" /></li>
+                                        <li><img src="images/events/gst-2016/gst-7.jpg" alt="Grantham Sprint Tri 2016" /></li>
+                                        <li><img src="images/events/hv/hv6.jpg" alt="Helvellyn Tri 2016" /></li>
+                                        <li><img src="images/events/gst-2016/gst-6.jpg" alt="Grantham Sprint Tri 2016" /></li>
+                                        <li><img src="images/events/gst-2016/gst-5.jpg" alt="Grantham Sprint Tri 2016" /></li>
+                                        <li><img src="images/events/gst-2016/gst-4.jpg" alt="Grantham Sprint Tri 2016" /></li>
+                                        <li><img src="images//events/hv/hv3.jpg" alt="Helvellyn Tri 2016" /></li>
+                                        <li><img src="images/events/gst-2016/gst-3.jpg" alt="Grantham Sprint Tri 2016" /></li>
+                                        <li><img src="images/events/hv/hv8.jpg" alt="Helvellyn Tri 2016" /></li>
+                                        <li><img src="images/events/gst-2016/gst-2.jpg" alt="Grantham Sprint Tri 2016" /></li>
+                                        <li><img src="images/events/hv/hv4.jpg" alt="Helvellyn Tri 2016" /></li>
+                                        <li><img src="images/events/gst-2016/gst-1.jpg" alt="Grantham Sprint Tri 2016" /></li>
+                                        <li><img src="images/gallery/large/gallery-03.jpg" alt="First open water swim of the year" /></li>
+                                        <li><img src="images/sessions/run/parkrun.jpg" alt="" /></li>
+                                        <li><img src="images/events/hv/hv5.jpg" alt="Helvellyn Tri 2016" /></li>
+                                        <li><img src="images/sessions/bike/bike-ride.jpg" alt="" /></li>
+                                        <li><img src="images/events/btc-classic-sportive-2016.jpg" alt="" /></li>
+                                        <li><img src="images/events/hv/hv2.jpg" alt="Helvellyn Tri 2016" /></li>
+                                        <li><img src="images/events/stathern-duathlon-2016-1.jpg" alt="" /></li>
+                                        <li><img src="images/events/hv/hv7.jpg" alt="Helvellyn Tri 2016" /></li>
+
+                                    </ul>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="widget no-margin">
+                            <div class="headline no-margin"><h4>Coming Up</h4></div>
+                        </div>
+                        <iframe class="calendar" src="https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=600&amp;wkst=2&amp;bgcolor=%23ffffff&amp;src=bhkkpl2ad67ij4r9hfteijskb4%40group.calendar.google.com&amp;color=%23711616&amp;ctz=Europe%2FLondon" frameborder="0" scrolling="no"></iframe>    
+                    </div>
+                    
                     <div class="col-md-3">
                         <div class="widget no-margin">
                             <div class="headline no-margin"><h4>News</h4></div>
@@ -53,38 +86,6 @@
                                 }(document, "script", "twitter-wjs");</script>
                         </div>
                     </div>
-                    <div class="col-md-6">
-                        <!-- Flex Slider -->
-                        <section class="slider">
-                            <!--<div class="flexslider home">
-                                <a data-flickr-embed="true"  href="https://www.flickr.com/photos/markymarkdude/albums/72157667897069752" title="Grantham Sprint Tri 2016">
-                                    <img src="https://farm8.staticflickr.com/7534/26291138563_8b9eb07b1b_z.jpg" alt="Grantham Sprint Tri 2016"></a>
-                            </div>                        
-                            <script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>-->
-                            <div class="flexslider home">
-                                <ul class="slides">
-                                    <li><img src="images/gallery/large/gallery-03.jpg" alt="First open water swim of the year" /></li>
-                                    <li><img src="images/sessions/run/parkrun.jpg" alt="" /></li>
-                                    <li><img src="images/sessions/bike/bike-ride.jpg" alt="" /></li>
-                                    <li><img src="images/events/btc-classic-sportive-2016.jpg" alt="" /></li>
-                                    <li><img src="images/events/stathern-duathlon-2016-1.jpg" alt="" /></li>
-                                </ul>
-                            </div>
-                        </section>
-
-                        <div class="widget no-margin">
-                            <div class="headline no-margin"><h4>Latest</h4></div>
-                        </div>
-                        <div>
-
-                        </div>
-                    </div>
-                    <div class="col-md-3">
-                        <div class="widget no-margin">
-                            <div class="headline no-margin"><h4>Coming Up</h4></div>
-                        </div>
-                        <iframe src="https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=600&amp;wkst=2&amp;bgcolor=%23ffffff&amp;src=bhkkpl2ad67ij4r9hfteijskb4%40group.calendar.google.com&amp;color=%23711616&amp;ctz=Europe%2FLondon" style="border-width:0" width="100%" height="600" frameborder="0" scrolling="no"></iframe>    
-                    </div>
                 </div>
             </div>
             <!-- Footer   -->
@@ -96,15 +97,15 @@
         <!-- Javascript -->
         <?php include 'common/js.php'; ?>
         <script type="text/javascript">
-                                $(document).ready(function () {
-                                    var str = location.href.toLowerCase();
-                                    console.log(str);
-                                    $('#nav li a').each(function () {
-                                        if (str.indexOf(this.href.toLowerCase()) > -1) {
-                                            $(this).addClass("active");
-                                        }
-                                    });
-                                });
+            $(document).ready(function () {
+                var str = location.href.toLowerCase();
+                console.log(str);
+                $('#nav li a').each(function () {
+                    if (str.indexOf(this.href.toLowerCase()) > -1) {
+                        $(this).addClass("active");
+                    }
+                });
+            });
         </script>
     </body>
 </html>

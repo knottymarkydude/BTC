@@ -48,7 +48,7 @@
                     </div>
                     <div class="item-description">
                         <h5><a href="#">Tri Club Photo shoot</a></h5>
-                        <p>Photo shoot 2015, for the GB qualifiers.</p>
+                        <p>Photo shoot 2015, GB qualifiers.</p>
                     </div>
                 </div>
                 <div class="col-md-3">

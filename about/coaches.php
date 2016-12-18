@@ -99,7 +99,7 @@
                     </div>
                 </div>    
                 <div class="col-md-4">
-                    <img src="../images/coaches/staff-1.jpg" alt="" class="img-circle"/>
+                    <img src="../images/coaches/ashleigh300.jpg" alt="" class="img-circle"/>
                     <div class="staff"><h5>Ashleigh Graham</h5> <span>L1 Coach</span><span>
                             <i class="glyphicon glyphicon-envelope"></i>&nbsp;ashleigh@belvoirtriclub.co.uk</span></div>
 

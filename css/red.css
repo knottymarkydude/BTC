@@ -25,3 +25,8 @@ border-bottom: 2px solid #c62020;
     
 }
 a:hover, a:focus{color: #c62020 !important;}
+
+.calendar {
+    width: 100%;
+    height: 300px;
+}

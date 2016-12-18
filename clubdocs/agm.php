@@ -28,7 +28,12 @@
             <div class="panel panel-body">
                 <h1>AGM Documents</h1>
                 <p>A list of the minutes from the club AGM's</p>
-                <p><span class="glyphicon glyphicon-book"></span>&nbsp;<a href="../docs/agm/BELVOIR-TRIATHLON-CLUB-AGM-Minutes-051015.pdf">AGM 2015</a></p>
+                <p><span class="glyphicon glyphicon-book"></span>&nbsp;
+                    <a href="../docs/agm/BELVOIR-TRIATHLON-CLUB-AGM-Minutes-051015.pdf">AGM 2015</a>
+                </p>
+                <p><span class="glyphicon glyphicon-book"></span>&nbsp;
+                    <a href="../docs/agm/BTC-AGM-Minutes-October-2016.pdf">AGM 2016</a>
+                </p>
                 
             </div>
             <!-- Footer   -->

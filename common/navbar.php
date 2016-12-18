@@ -8,7 +8,7 @@
                 <li><a href="/about/coaches.php">Coaches</a></li>
                 <li><a href="/about/committee.php">Committee</a></li>
                 <li><a href="/about/membership.php">Membership</a></li>
-                <li><a href="/docs/constitution/BTC-Constitution-January-2016-v1.pdf" target="_blank">Constitution</a>
+                <li><a href="/docs/constitution/BTC-Constitution-January-2016-v2.pdf" target="_blank">Constitution</a>
                 <li><a href="/about/contact.php" id="contact">Contact</a></li>
                 <li><a href="/about/barry.php" id="barry">Barry - The Story</a></li>
             </ul>
@@ -34,7 +34,7 @@
                 <li><a href="/clubdocs/rod.php">Record of Decisions</a></li>
             </ul>
         </li>
-
+        <li><a href="/sessions/index.php" id="sessions">Club Sessions</a></li>
     </ul>
 </div>
 

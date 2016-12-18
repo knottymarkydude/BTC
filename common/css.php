@@ -8,6 +8,8 @@
 <link rel="stylesheet" type="text/css" href="/css/style.css">
 <link rel="stylesheet" type="text/css" href="/css/red.css" id="colors">
 <link rel="stylesheet" type="text/css" href="/css/custom.css" id="custom">
+<link rel="stylesheet" type="text/css" href="/css/modalbox.css" id="modalbox">
+
 <!-- Add fancyBox -->
 <link rel="stylesheet" href="/css/jquery.fancybox.css" type="text/css" media="screen" />
 <link rel="stylesheet" href="/css/jquery.fancybox-buttons.css" type="text/css" media="screen" />
