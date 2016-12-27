@@ -1,0 +1,23 @@
+p {
+    font-size: 1.2em;
+}
+
+#footer p {
+    font-size: 12px;
+    float: left;
+    margin-right: 80px;
+}
+
+ul#gotri {
+    font-size: large;
+}
+
+
+table.gotri {
+    font-size: large;
+    margin-bottom: 15px;
+}
+
+table.gotri td {
+    padding-right: 50px;
+}
