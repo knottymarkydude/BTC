@@ -156,7 +156,7 @@
                     </div>
 
                     <div class="col-md-4">
-                        <img src="../images/committee/steves300.jpg" alt="" class="img-circle"/>
+                        <img src="../images/committee/ssquires300.jpg" class="img-circle"/>
                         <div class="staff"><h5>GO-Tri Coordinator/ Events Coordinator</h5> <span>Steve Squires</span>
                             <span>
                                 <i class="glyphicon glyphicon-envelope"></i>&nbsp;steve@belvoirtriclub.co.uk

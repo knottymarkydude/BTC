@@ -35,7 +35,7 @@
                 <h3>Bike Sessions</h3>
                 <ul>
                     <li>Tuesday Night (Summer season) - 7pm at the Meres Leisure Centre</li>
-                    <li>Wednesday Night - Turbo (Winter season) - 7pm in the Barrowby Village Hall</li>
+                    <li>Wednesday Night - Turbo (Winter season) - 7:30pm the the Tennis Centre</li>
                     <li>Sunday morning - (All year round) - 9am at the Meres Leisure Centre.</li>
                 </ul>
                 <p>We have a number of bike routes that we use for the bike rides, that can be found <a href="bikeroutes.php">here.</a></p>

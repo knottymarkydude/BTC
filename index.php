@@ -36,6 +36,9 @@
                             <section class="slider">
                                 <div class="flexslider home">
                                     <ul class="slides">
+                                        <li><img src="images/events/Swimarathon-2017-Group.jpg" alt="Swimarathon 2017"/></li>
+                                        <li><img src="images/events/Swimarathon-2017-Group-1.jpg" alt="Swimarathon 2017"/></li>
+                                        <li><img src="images/events/Swimarathon-2017-Group-2.jpg" alt="Swimarathon 2017"/></li>
                                         <li><img src="images/events/2016-clumber-park-duathlon.jpg" alt="clumber-park-duathlon"/></li>
                                         <li><img src="images/events/2016-peterborough-half.jpg" alt="2016-peterborough-half"/></li>
                                         <li><img src="images/events/hv/hv9.jpg" alt="Helvellyn Tri 2016" /></li>
