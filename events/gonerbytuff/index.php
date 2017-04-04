@@ -54,7 +54,7 @@
                                 <div class="span6 portfolio-item">
                                     <div class="hero-unit margintop">
                                         <div>
-                                            <h4>Race starts on 5pm on Saturday July 9th 2016</h4>
+                                            <h4>Race starts on 5pm on Saturday July 8th 2017</h4>
                                         </div>
                                         <div>
                                             <p>A challenging off road duathlon featuring some 
@@ -81,7 +81,7 @@
                                     <div class="hero-unit margintop">
                                         <p>ENTRANCE FEE £10 in advance, £12 on the day including FREE beer or soft 
                                             drink and burger or hot dog.</p>
-                                        <!--<p>ENTER ONLINE AT http://www.belvoirtriclub.co.uk/gonerbytuff</p>-->
+                                        <p><a href="https://www.entrycentral.com/Gonerby-Tuff-Off-Road-Duathlon">ENTER ONLINE</a></p>
                                     </div>
                                 </div>
 

@@ -44,19 +44,19 @@
 
                                 <div class="span6 portfolio-item">
                                     <div class="hero-unit margintop">
-                                        <h3>Belvoir Tri Club ‘GO Tri’ Aquathlon Series 2016</h3>
+                                        <h3>Belvoir Tri Club ‘GO Tri’ Aquathlon Series 2017</h3>
                                         <p>
-                                            We’re very excited to be holding 4 GO-Tri events in 2016 in 
+                                            We’re very excited to be holding 4 GO-Tri events in 2017 in 
                                             conjunction with <a href="http://www.1life.co.uk/south-kesteven-district-council/grantham-meres-leisure-centre/home/">Grantham Meres Leisure Centre</a> 
                                             in our home town of Grantham. The races will be held on the following 
                                             dates:
                                             <img class="thumbnail" src="" align="right" alt="">
                                         </p>
                                         <ul id="gotri">
-                                            <li><a href="http://www.entrycentral.com/btc2016aqua1" target="_blank">Saturday 2nd April 2016</a>&nbsp;<button id="gotri1" class="btn btn-sm btn-success">Results</button></li>
-                                            <li><a href="http://www.entrycentral.com/btc2016aqua2" target="_blank">Saturday 21st May 2016</a>&nbsp;<button id="gotri2" class="btn btn-sm btn-success">Results</button></li>
-                                            <li><a href="http://www.entrycentral.com/btc2016aqua3" target="_blank">Saturday 30th July 2016</a>&nbsp;<button id="gotri3" class="btn btn-sm btn-success">Results</button></li>
-                                            <li><a href="http://www.entrycentral.com/btc2016aqua4" target="_blank">Saturday 17th September 2016</a>&nbsp;<button id="gotri4" class="btn btn-sm btn-success">Results</button></li>
+                                            <li><a href="http://www.entrycentral.com/btc2017aqua1" target="_blank">Saturday 29th April 2017</a>&nbsp;<button id="gotri1" class="btn btn-sm btn-success">Enter</button></li>
+                                            <li><a href="http://www.entrycentral.com/btc2017aqua2" target="_blank">Saturday 24th June 2017</a>&nbsp;<button id="gotri2" class="btn btn-sm btn-success">Enter</button></li>
+                                            <li><a href="http://www.entrycentral.com/btc2017aqua3" target="_blank">Saturday 29th July 2017</a>&nbsp;<button id="gotri3" class="btn btn-sm btn-success">Enter</button></li>
+                                            <li><a href="http://www.entrycentral.com/btc2017aqua4" target="_blank">Saturday 9th September 2017</a>&nbsp;<button id="gotri4" class="btn btn-sm btn-success">Enter</button></li>
                                         </ul>
                                     </div>
                                 </div>
@@ -68,11 +68,10 @@
                                         <p>The Belvoir Tri Club GO Tri Aquathlon Series will take place at The Meres Leisure Centre in Grantham and is first and foremost aimed at newcomers 
                                             to the sport but is open to all athletes of all abilities and levels of fitness. Due to there not being a need for a bike, this is a great and 
                                             low cost event (just £5) to embark on your multisport calling.</p>
-                                        <p>The start time for all of the events is 19:00, with details on registration opening at 18:15. Registration will close at 18:45 at which point a 
+                                        <p>The start time for all of the events is 19:00, with details on registration opening at 18:20. Registration will close at 18:40 at which point a 
                                             race briefing will take place.</p>
                                         <p>The senior race distance comprises of a swim of 200m, which is 8 lengths; followed by a 3km run around the local footpaths.</p>
-                                        <p>Although the age limit has been lowered this year, it is still in place and has been set at 8 years old. All ages are as of 31st December 2016. 
-                                            The races for 12 years old and under are slightly shorter in length as can be seen in the table below.</p>
+                                        <p>All ages are as of 31st December 2017. </p>
 
                                         <table class="gotri">
                                             <tbody>
@@ -142,8 +141,8 @@
                                 <div class="well">
                                     <p><a href="/docs/club/gotri/April 2nd Results.pdf">Results - 2nd April 2016</a></p>
                                     <p><a href="/docs/club/gotri/May 22nd Results.pdf">Results - 22nd May 2016</a></p>
-                                    <p><a href="../../docs/club/gotri/July_30th_Results.pdf">Results - 30th July 2016</a></p>
-                                    <p><a href="../../docs/club/gotri/Sept_17th_Results.pdf">Results - 17th September 2016</a></p>
+                                    <p><a href="/docs/club/gotri/July_30th_Results.pdf">Results - 30th July 2016</a></p>
+                                    <p><a href="/docs/club/gotri/Sept_17th_Results.pdf">Results - 17th September 2016</a></p>
                                 </div>
                             </div>
                         </div>
@@ -169,19 +168,19 @@
                 $("#events").addClass("active");
 
                 $('#gotri1').click(function () {
-                    window.location = '/docs/club/gotri/April 2nd Results.pdf';
+                    window.location = 'http://www.entrycentral.com/btc2017aqua1';
                 });
 
                 $('#gotri2').click(function () {
-                    window.location = '/docs/club/gotri/May 22nd Results.pdf';
+                    window.location = 'http://www.entrycentral.com/btc2017aqua2';
                 });
 
                 $('#gotri3').click(function () {
-                    window.location = '/docs/club/gotri/July_30th_Results.pdf';
+                    window.location = 'http://www.entrycentral.com/btc2017aqua3';
                 });
 
                 $('#gotri4').click(function () {
-                    window.location = '/docs/club/gotri/Sept_17th_Results.pdf';
+                    window.location = 'http://www.entrycentral.com/btc2017aqua4';
                 });
             });
 
