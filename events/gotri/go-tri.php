@@ -70,7 +70,7 @@
                                             low cost event (just £5) to embark on your multisport calling.</p>
                                         <p>The start time for all of the events is 19:00, with details on registration opening at 18:20. Registration will close at 18:40 at which point a 
                                             race briefing will take place.</p>
-                                        <p>The senior race distance comprises of a swim of 200m, which is 8 lengths; followed by a 3km run around the local footpaths.</p>
+                                        <p>The senior race distance comprises of a swim of 200m, which is 8 lengths; followed by a 3km run around the Meres running track.</p>
                                         <p>All ages are as of 31st December 2017. </p>
 
                                         <table class="gotri">
