@@ -31,7 +31,6 @@
         <li><a href="/clubdocs/rod.php" id="clubdocs">Club Documents</a>
             <ul>
                 <li><a href="/clubdocs/agm.php">AGM</a></li>
-                <li><a href="/clubdocs/rod.php">Record of Decisions</a></li>
             </ul>
         </li>
         <li><a href="/sessions/index.php" id="sessions">Club Sessions</a></li>
