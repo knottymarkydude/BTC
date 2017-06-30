@@ -27,46 +27,61 @@
             <!-- Navigation / End -->
             <!-- Content -->
             <div class="panel panel-body">
-                <div class="row-fluid">
-                    
+                <div class="row-fluid">   
                     <div class="col-md-9">
                         <div class="widget no-margin">
-                            <div class="headline no-margin"><h4>A glimpse at what we get up to.</h4></div>
+                            <div class="headline no-margin"><h4>Latest News.</h4></div>
+                            
+                            <section class="fp-wrapper">
+                                <div class="one">
+                                    <img src="/images/events/gonerby-tuff.png" alt=""/>
+                                </div>
+                                <div class="two">
+                                    <h3>Gonerby Tuff Event</h3>
+                                    
+                                    <p>On Saturday 8th July, the club will be holding an off-road duathlon event. 
+                                        For more details click <a href="/events/gonerbytuff/index.php">here</a>.
+                                    </p>
+                                    <p><button id="enter-tuff" class="btn btn-sm btn-success">Enter online now</button></p>
+                                    
+                                </div>
+                            </section>
+                            
+                            
                             <!-- Flex Slider -->
-                            <section class="slider">
+                            <!--<section class="slider">
                                 <div class="flexslider home">
                                     <ul class="slides">
-                                        <li><img src="images/events/Swimarathon-2017-Group.jpg" alt="Swimarathon 2017"/></li>
-                                        <li><img src="images/events/Swimarathon-2017-Group-1.jpg" alt="Swimarathon 2017"/></li>
-                                        <li><img src="images/events/Swimarathon-2017-Group-2.jpg" alt="Swimarathon 2017"/></li>
                                         <li><img src="images/events/2016-clumber-park-duathlon.jpg" alt="clumber-park-duathlon"/></li>
                                         <li><img src="images/events/2016-peterborough-half.jpg" alt="2016-peterborough-half"/></li>
-                                        <li><img src="images/events/hv/hv9.jpg" alt="Helvellyn Tri 2016" /></li>
-                                        <li><img src="images/events/hv/hv2.jpg" alt="Helvellyn Tri 2016" /></li>
+                                        <li><img src="images/events/hv/hv6.jpg" alt="Helvellyn Tri 2016" /></li>
                                         <li><img src="images/gallery/large/gallery-06.jpg" alt="Grantham Sprint Tri 2016" /></li>
                                         <li><img src="images/events/gst-2016/gst-7.jpg" alt="Grantham Sprint Tri 2016" /></li>
                                         <li><img src="images/events/hv/hv6.jpg" alt="Helvellyn Tri 2016" /></li>
                                         <li><img src="images/events/gst-2016/gst-6.jpg" alt="Grantham Sprint Tri 2016" /></li>
                                         <li><img src="images/events/gst-2016/gst-5.jpg" alt="Grantham Sprint Tri 2016" /></li>
                                         <li><img src="images/events/gst-2016/gst-4.jpg" alt="Grantham Sprint Tri 2016" /></li>
-                                        <li><img src="images//events/hv/hv3.jpg" alt="Helvellyn Tri 2016" /></li>
+                                        <li><img src="images/events/hv/hv3.jpg" alt="Helvellyn Tri 2016" /></li>
+                                        <li><img src="images/events/Swimarathon-2017-Group.jpg" alt="Swimarathon 2017"/></li>
                                         <li><img src="images/events/gst-2016/gst-3.jpg" alt="Grantham Sprint Tri 2016" /></li>
                                         <li><img src="images/events/hv/hv8.jpg" alt="Helvellyn Tri 2016" /></li>
                                         <li><img src="images/events/gst-2016/gst-2.jpg" alt="Grantham Sprint Tri 2016" /></li>
                                         <li><img src="images/events/hv/hv4.jpg" alt="Helvellyn Tri 2016" /></li>
+                                        <li><img src="images/events/Swimarathon-2017-Group-1.jpg" alt="Swimarathon 2017"/></li>
                                         <li><img src="images/events/gst-2016/gst-1.jpg" alt="Grantham Sprint Tri 2016" /></li>
+                                        <li><img src="images/events/hv/hv9.jpg" alt="Helvellyn Tri 2016" /></li>
                                         <li><img src="images/gallery/large/gallery-03.jpg" alt="First open water swim of the year" /></li>
                                         <li><img src="images/sessions/run/parkrun.jpg" alt="" /></li>
                                         <li><img src="images/events/hv/hv5.jpg" alt="Helvellyn Tri 2016" /></li>
                                         <li><img src="images/sessions/bike/bike-ride.jpg" alt="" /></li>
                                         <li><img src="images/events/btc-classic-sportive-2016.jpg" alt="" /></li>
+                                        <li><img src="images/events/Swimarathon-2017-Group-2.jpg" alt="Swimarathon 2017"/></li>
                                         <li><img src="images/events/hv/hv2.jpg" alt="Helvellyn Tri 2016" /></li>
                                         <li><img src="images/events/stathern-duathlon-2016-1.jpg" alt="" /></li>
                                         <li><img src="images/events/hv/hv7.jpg" alt="Helvellyn Tri 2016" /></li>
-
                                     </ul>
                                 </div>
-                            </section>
+                            </section>-->
                         </div>
                         <div class="widget no-margin">
                             <div class="headline no-margin"><h4>Coming Up</h4></div>
@@ -102,11 +117,14 @@
         <script type="text/javascript">
             $(document).ready(function () {
                 var str = location.href.toLowerCase();
-                console.log(str);
                 $('#nav li a').each(function () {
                     if (str.indexOf(this.href.toLowerCase()) > -1) {
                         $(this).addClass("active");
                     }
+                });
+                
+                $('#enter-tuff').click(function () {
+                    window.location = 'https://www.entrycentral.com/Gonerby-Tuff-Off-Road-Duathlon';
                 });
             });
         </script>

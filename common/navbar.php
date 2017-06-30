@@ -28,7 +28,7 @@
                 <li><a href="/events/gonerbytuff/index.php" id="gonerbytuff">Gonerby Tuff</a></li>
             </ul>
         </li>
-        <li><a href="/clubdocs/rod.php" id="clubdocs">Club Documents</a>
+        <li><a href="/clubdocs/agm.php" id="clubdocs">Club Documents</a>
             <ul>
                 <li><a href="/clubdocs/agm.php">AGM</a></li>
             </ul>

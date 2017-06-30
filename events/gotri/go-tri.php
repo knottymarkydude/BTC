@@ -54,7 +54,7 @@
                                         </p>
                                         <ul id="gotri">
                                             <li><a href="/docs/club/gotri/GoTri20170329.pdf" target="_blank">Saturday 29th April 2017</a>&nbsp;<button id="gotri1" class="btn btn-sm btn-danger">Result</button></li>
-                                            <li><a href="http://www.entrycentral.com/btc2017aqua2" target="_blank">Saturday 24th June 2017</a>&nbsp;<button id="gotri2" class="btn btn-sm btn-success">Enter</button></li>
+                                            <li><a href="/docs/club/gotri/GoTri20170624.pdf" target="_blank">Saturday 24th June 2017</a>&nbsp;<button id="gotri2" class="btn btn-sm btn-danger">Result</button></li>
                                             <li><a href="http://www.entrycentral.com/btc2017aqua3" target="_blank">Saturday 29th July 2017</a>&nbsp;<button id="gotri3" class="btn btn-sm btn-success">Enter</button></li>
                                             <li><a href="http://www.entrycentral.com/btc2017aqua4" target="_blank">Saturday 9th September 2017</a>&nbsp;<button id="gotri4" class="btn btn-sm btn-success">Enter</button></li>
                                         </ul>
@@ -139,12 +139,13 @@
 
                             <div class="tab-pane fade active in" id="results">
                                 <div class="well">
+                                    <p><a href="/docs/club/gotri/GoTri20170624.pdf">Results - 24th June 2017</a></p>
                                     <p><a href="/docs/club/gotri/GoTri20170329.pdf">Results - 29th April 2017</a></p>
                                     <hr/>
-                                    <p><a href="/docs/club/gotri/April 2nd Results.pdf">Results - 2nd April 2016</a></p>
-                                    <p><a href="/docs/club/gotri/May 22nd Results.pdf">Results - 22nd May 2016</a></p>
-                                    <p><a href="/docs/club/gotri/July_30th_Results.pdf">Results - 30th July 2016</a></p>
                                     <p><a href="/docs/club/gotri/Sept_17th_Results.pdf">Results - 17th September 2016</a></p>
+                                    <p><a href="/docs/club/gotri/July_30th_Results.pdf">Results - 30th July 2016</a></p>
+                                    <p><a href="/docs/club/gotri/May 22nd Results.pdf">Results - 22nd May 2016</a></p>
+                                    <p><a href="/docs/club/gotri/April 2nd Results.pdf">Results - 2nd April 2016</a></p>
                                 </div>
                             </div>
                         </div>
@@ -174,7 +175,7 @@
                 });
 
                 $('#gotri2').click(function () {
-                    window.location = 'http://www.entrycentral.com/btc2017aqua2';
+                    window.location = '/docs/club/gotri/GoTri20170624.pdf';
                 });
 
                 $('#gotri3').click(function () {

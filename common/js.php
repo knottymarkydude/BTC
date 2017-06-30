@@ -25,6 +25,19 @@
   ga('send', 'pageview');
 
 </script>
+
+
+<script type="text/javascript">
+    $("#nav li > a").click( function() {
+    // push a command onto the piwik stack. We're calling "trackEvent" and
+    // passing three arguments: the category of the event, an action, and a
+    // name for the event. In this case we want to track which menu item was
+    // clicked.
+        console.log("This: " + this.text);
+         _paq.push( [ "trackEvent", "Navbar", "clicked", this.text ] );
+    });
+
+</script>
 <!-- Piwik -->
 <script type="text/javascript">
   var _paq = _paq || [];

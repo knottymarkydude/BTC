@@ -43,6 +43,8 @@
                         <div id="myTabContent" class="tab-content">
                             <div class="tab-pane fade active in" id="home">
                                 <div class="well">
+                                    <p><button id="enter-tuff1" class="btn btn-sm btn-success enter-tuff">Enter online now</button></p>
+                                    
                                     <h4>Race HQ</h4>
                                     Belton Lane, <br/>
                                     Great Gonerby, <br/>
@@ -80,8 +82,9 @@
                                 <div class="well">
                                     <div class="hero-unit margintop">
                                         <p>ENTRANCE FEE £10 in advance, £12 on the day including FREE beer or soft 
-                                            drink and burger or hot dog.</p>
-                                        <p><a href="https://www.entrycentral.com/Gonerby-Tuff-Off-Road-Duathlon">ENTER ONLINE</a></p>
+                                            drink and burger or hot dog.
+                                        </p>
+                                        <p><button id="enter-tuff2" class="btn btn-sm btn-success enter-tuff">Enter</button></p>
                                     </div>
                                 </div>
 
@@ -127,6 +130,10 @@
                     }
                 });
                 $("#events").addClass("active");
+                
+                $('.enter-tuff').click(function () {
+                    window.location = 'https://www.entrycentral.com/Gonerby-Tuff-Off-Road-Duathlon';
+                });
             });
         </script>
     </body>
