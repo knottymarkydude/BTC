@@ -25,7 +25,7 @@
         <li><a href="/events/index.php" id="events">Events</a>
             <ul>
                 <li><a href="/events/gotri/go-tri.php" id="gotri">Go Tri</a></li>
-                <li><a href="/events/gonerbytuff/index.php" id="gonerbytuff">Gonerby Tuff</a></li>
+                <!--<li><a href="/events/gonerbytuff/index.php" id="gonerbytuff">Gonerby Tuff</a></li>-->
             </ul>
         </li>
         <li><a href="/clubdocs/agm.php" id="clubdocs">Club Documents</a>

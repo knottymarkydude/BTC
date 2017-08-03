@@ -32,26 +32,11 @@
                         <div class="widget no-margin">
                             <div class="headline no-margin"><h4>Latest News.</h4></div>
                             
-                            <section class="fp-wrapper">
-                                <div class="one">
-                                    <img src="/images/events/gonerby-tuff.png" alt=""/>
-                                </div>
-                                <div class="two">
-                                    <h3>Gonerby Tuff Event</h3>
-                                    
-                                    <p>On Saturday 8th July, the club will be holding an off-road duathlon event. 
-                                        For more details click <a href="/events/gonerbytuff/index.php">here</a>.
-                                    </p>
-                                    <p><button id="enter-tuff" class="btn btn-sm btn-success">Enter online now</button></p>
-                                    
-                                </div>
-                            </section>
-                            
-                            
                             <!-- Flex Slider -->
-                            <!--<section class="slider">
+                           <section class="slider">
                                 <div class="flexslider home">
                                     <ul class="slides">
+                                        <li><img src="images/events/holkham-half-01.jpg" alt=""/></li>
                                         <li><img src="images/events/2016-clumber-park-duathlon.jpg" alt="clumber-park-duathlon"/></li>
                                         <li><img src="images/events/2016-peterborough-half.jpg" alt="2016-peterborough-half"/></li>
                                         <li><img src="images/events/hv/hv6.jpg" alt="Helvellyn Tri 2016" /></li>
@@ -81,7 +66,7 @@
                                         <li><img src="images/events/hv/hv7.jpg" alt="Helvellyn Tri 2016" /></li>
                                     </ul>
                                 </div>
-                            </section>-->
+                            </section>
                         </div>
                         <div class="widget no-margin">
                             <div class="headline no-margin"><h4>Coming Up</h4></div>

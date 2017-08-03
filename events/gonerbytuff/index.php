@@ -29,7 +29,11 @@
             <div class="row-fluid " >
                 <div class="span10">
 
-                    <div class="headline"><a id="gt"><h4>Gonerby Tuff - Off Road Duathlon</h4></a></div>
+                    <h3>CANCELLED</h3>
+                    <p>Apologies to all that entered, the Gonerby Tuff has been cancelled due to 
+                    unforseen circumstances. </p>
+                    
+                    <!--<div class="headline"><a id="gt"><h4>Gonerby Tuff - Off Road Duathlon</h4></a></div>
 
                     <div class="margintop">
                         <ul id="btc-tabs" class="nav nav-tabs">
@@ -109,7 +113,7 @@
                                 </div>
                             </div>
                         </div>
-                    </div>
+                    </div>-->
 
                 </div>
             </div>
