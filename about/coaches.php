@@ -36,20 +36,24 @@
                 <div class="row-fluid">
                     <!-- Standard Structure -->
 
+                    <div class="col-md-4">
+                        <img src="../images/coaches/markwilson300.jpg" alt="" class="img-circle"/>
+                        <div class="staff"><h5>Mark Wilson</h5> <span>L2 Coach</span><span>
+                                <i class="glyphicon glyphicon-envelope"></i>&nbsp;markw@belvoirtriclub.co.uk</span></div>
+                    </div>
+
+                    <div class="col-md-4">
+                        <img src="../images/coaches/geryhyde300.jpg" alt="" class="img-circle"/>
+                        <div class="staff"><h5>Gerry Hyde</h5> <span>L2 Coach</span><span>
+                                <i class="glyphicon glyphicon-envelope"></i>&nbsp;gerry@belvoirtriclub.co.uk</span></div>
+                    </div>
 
                     <div class="col-md-4">
                         <img src="../images/coaches/markwilson300.jpg" alt="" class="img-circle"/>
                         <div class="staff"><h5>Mark Wilson</h5> <span>L2 Coach</span><span>
                                 <i class="glyphicon glyphicon-envelope"></i>&nbsp;markw@belvoirtriclub.co.uk</span></div>
-
                     </div>
-                    <div class="col-md-4">
-                        <img src="../images/coaches/geryhyde300.jpg" alt="" class="img-circle"/>
-                        <div class="staff"><h5>Gerry Hyde</h5> <span>L2 Coach</span><span>
-                                <i class="glyphicon glyphicon-envelope"></i>&nbsp;gerry@belvoirtriclub.co.uk</span></div>
 
-
-                    </div>
                     <div class="col-md-4">
                         <img src="../images/coaches/catherinedavies300.jpg" alt="" class="img-circle"/>
                         <div class="staff"><h5>Catherine Davies</h5> <span>L2 Coach</span><span>
@@ -62,16 +66,17 @@
                                 <i class="glyphicon glyphicon-envelope"></i>&nbsp;chris@belvoirtriclub.co.uk</span></div>
                     </div>
                     <div class="col-md-4">
+                        <img src="../images/coaches/karlhunt300.jpg" alt="" class="img-circle"/>
+                        <div class="staff"><h5>Karl Hunt</h5> <span>L2 Coach</span><span>
+                                <i class="glyphicon glyphicon-envelope"></i>&nbsp;karl@belvoirtriclub.co.uk</span></div>
+                    </div>
+                    <div class="col-md-4">
                         <img src="../images/coaches/clairearmstrong300.jpg" alt="" class="img-circle"/>
                         <div class="staff"><h5>Claire Armstrong</h5> <span>L1 Coach</span><span>
                                 <i class="glyphicon glyphicon-envelope"></i>&nbsp;claire@belvoirtriclub.co.uk</span></div>
                     </div>
 
-                    <div class="col-md-4">
-                        <img src="../images/coaches/mickoliver300.jpg" alt="" class="img-circle"/>
-                        <div class="staff"><h5>Mick Oliver</h5> <span>L1 Coach</span><span>
-                                <i class="glyphicon glyphicon-envelope"></i>&nbsp;mick@belvoirtriclub.co.uk</span></div>
-                    </div>
+
                 </div>    
                 <div class="col-md-4">
                     <img src="../images/coaches/ashleigh300.jpg" alt="" class="img-circle"/>
@@ -80,21 +85,9 @@
                     </div>
                 </div>
                 <div class="col-md-4">
-                    <img src="../images/coaches/mattbroad300.jpg" alt="" class="img-circle"/>
-                    <div class="staff"><h5>Matt Broad</h5> <span>L1 Coach</span><span>
-                            <i class="glyphicon glyphicon-envelope"></i>&nbsp;matt@belvoirtriclub.co.uk</span>
-                    </div>
-                </div>
-                <div class="col-md-4">
                     <img src="../images/coaches/jameskelly300.jpg" alt="" class="img-circle"/>
                     <div class="staff"><h5>James Kelly</h5> <span>L1 Coach</span><span>
                             <i class="glyphicon glyphicon-envelope"></i>&nbsp;james@belvoirtriclub.co.uk</span>
-                    </div>
-                </div>
-                <div class="col-md-4">
-                    <img src="../images/coaches/brianmartin300.jpg" alt="" class="img-circle"/>
-                    <div class="staff"><h5>Brian Martin</h5> <span>L1 Coach</span><span>
-                            <i class="glyphicon glyphicon-envelope"></i>&nbsp;brian@belvoirtriclub.co.uk</span>
                     </div>
                 </div>
                 <div class="col-md-4">
@@ -107,6 +100,12 @@
                     <img src="../images/coaches/stephanhobday300.jpg" alt="" class="img-circle"/>
                     <div class="staff"><h5>Stephan Hobday</h5> <span>L1 Coach</span><span>
                             <i class="glyphicon glyphicon-envelope"></i>&nbsp;stephan@belvoirtriclub.co.uk</span>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <img src="../images/coaches/natalie300.jpg" alt="" class="img-circle"/>
+                    <div class="staff"><h5>Natalie Eastaugh</h5> <span>L1 Coach</span><span>
+                            <i class="glyphicon glyphicon-envelope"></i>&nbsp;natalie@belvoirtriclub.co.uk</span>
                     </div>
                 </div>
             </div>

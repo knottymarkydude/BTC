@@ -56,7 +56,7 @@
                                             <li><a href="/docs/club/gotri/GoTri20170329.pdf" target="_blank">Saturday 29th April 2017</a>&nbsp;<button id="gotri1" class="btn btn-sm btn-danger">Result</button></li>
                                             <li><a href="/docs/club/gotri/GoTri20170624.pdf" target="_blank">Saturday 24th June 2017</a>&nbsp;<button id="gotri2" class="btn btn-sm btn-danger">Result</button></li>
                                             <li><a href="/docs/club/gotri/GoTri20170729.pdf" target="_blank">Saturday 29th July 2017</a>&nbsp;<button id="gotri3" class="btn btn-sm btn-danger">Result</button></li>
-                                            <li><a href="http://www.entrycentral.com/btc2017aqua4" target="_blank">Saturday 9th September 2017</a>&nbsp;<button id="gotri4" class="btn btn-sm btn-success">Enter</button></li>
+                                            <li><a href="/docs/club/gotri/GoTri20170909.pdf" target="_blank">Saturday 9th September 2017</a>&nbsp;<button id="gotri4" class="btn btn-sm btn-danger">Results</button></li>
                                         </ul>
                                     </div>
                                 </div>
@@ -133,12 +133,14 @@
                                     Trent Road, , Lincs. <br/>
                                     Grantham, <br/>
                                     Lincs, <br/>
-                                    NG32 7XQ<br/>
+                                    NG31 7XQ<br/>
                                 </div>
                             </div>
 
                             <div class="tab-pane fade active in" id="results">
                                 <div class="well">
+                                    <p><a href="/docs/club/gotri/GoTri20170909.pdf">Results - 9th September 2017</a></p>
+                                    <p><a href="/docs/club/gotri/GoTri20170729.pdf">Results - 29th July 2017</a></p>
                                     <p><a href="/docs/club/gotri/GoTri20170624.pdf">Results - 24th June 2017</a></p>
                                     <p><a href="/docs/club/gotri/GoTri20170329.pdf">Results - 29th April 2017</a></p>
                                     <hr/>
@@ -183,7 +185,7 @@
                 });
 
                 $('#gotri4').click(function () {
-                    window.location = 'http://www.entrycentral.com/btc2017aqua4';
+                    window.location = '/docs/club/gotri/GoTri20170909.pdf';
                 });
             });
 

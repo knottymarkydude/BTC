@@ -80,18 +80,16 @@
                         <div class="staff"><h5>Membership Secretary</h5> <span>Alistair Knott</span>
                             <span>
                                 <i class="glyphicon glyphicon-envelope"></i>&nbsp;alistair@belvoirtriclub.co.uk
-                            </span>
-                            
+                            </span>                            
                         </div>
                     </div>
 
                     <div class="col-md-4">
-                        <img src="../images/committee/catherine300.jpg" alt="" class="img-circle"/>
-                        <div class="staff"><h5>Social Media Officer</h5> <span>Catherine Davies</span>
+                        <img src="../images/coaches/staff-1.jpg" alt="" class="img-circle"/>
+                        <div class="staff"><h5>Social Media Officer</h5> <span>Tom Dean</span>
                             <span>
-                                <i class="glyphicon glyphicon-envelope"></i>&nbsp;catherine@belvoirtriclub.co.uk
-                            </span>
-                            
+                                <i class="glyphicon glyphicon-envelope"></i>&nbsp;tom@belvoirtriclub.co.uk
+                            </span>                            
                         </div>
                     </div>
 
@@ -100,28 +98,42 @@
                         <div class="staff"><h5>Training Coordinator</h5> <span>Ove Andresen</span>
                             <span>
                                 <i class="glyphicon glyphicon-envelope"></i>&nbsp;ove@belvoirtriclub.co.uk
-                            </span>
-                            
+                            </span>                           
                         </div>
                     </div>
 
                     <div class="col-md-4">
-                        <img src="../images/committee/louisec300.jpg" alt="" class="img-circle"/>
-                        <div class="staff"><h5>Welfare Officer</h5> <span>Louise Cann</span>
+                        <img src="../images/coaches/staff-2.jpg" alt="" class="img-circle"/>
+                        <div class="staff"><h5>Welfare Officer</h5> <span>Marijke De Groot</span>
                             <span>
-                                <i class="glyphicon glyphicon-envelope"></i>&nbsp;louise@belvoirtriclub.co.uk
-                            </span>
-                            
+                                <i class="glyphicon glyphicon-envelope"></i>&nbsp;info@belvoirtriclub.co.uk
+                            </span>                            
+                        </div>
+                    </div>
+                    
+                    <div class="col-md-4">
+                        <img src="../images/coaches/staff-1.jpg" alt="" class="img-circle"/>
+                        <div class="staff"><h5>Welfare Officer</h5> <span>Mark Fryer</span>
+                            <span>
+                                <i class="glyphicon glyphicon-envelope"></i>&nbsp;info@belvoirtriclub.co.uk
+                            </span>                            
                         </div>
                     </div>
                     
                     <div class="col-md-4">
                         <img src="../images/committee/chris300.jpg" alt="" class="img-circle"/>
-                        <div class="staff"><h5>Assistant Welfare Officer/ Events coordinator</h5> <span>Chris Pugh</span>
+                        <div class="staff"><h5>Events coordinator</h5> <span>Chris Pugh</span>
                             <span>
                                 <i class="glyphicon glyphicon-envelope"></i>&nbsp;chris@belvoirtriclub.co.uk
-                            </span>
-                            
+                            </span>                            
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <img src="../images/committee/ssquires300.jpg" class="img-circle"/>
+                        <div class="staff"><h5>Events Coordinator</h5> <span>Steve Squires</span>
+                            <span>
+                                <i class="glyphicon glyphicon-envelope"></i>&nbsp;steve@belvoirtriclub.co.uk
+                            </span>                          
                         </div>
                     </div>
 
@@ -155,15 +167,7 @@
                         </div>
                     </div>
 
-                    <div class="col-md-4">
-                        <img src="../images/committee/ssquires300.jpg" class="img-circle"/>
-                        <div class="staff"><h5>GO-Tri Coordinator/ Events Coordinator</h5> <span>Steve Squires</span>
-                            <span>
-                                <i class="glyphicon glyphicon-envelope"></i>&nbsp;steve@belvoirtriclub.co.uk
-                            </span>
-                            
-                        </div>
-                    </div>
+                    
 
                     <div class="col-md-4">
                         <img src="../images/committee/markw300.jpg" alt="" class="img-circle"/>
