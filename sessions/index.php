@@ -30,12 +30,12 @@
                 <h3>Swim Sessions</h3>
                 <ul>
                     <li>Monday Morning (All year round) - 6am at the Meres Leisure Centre</li>
-                    <li>Saturday Morning - 7am at the Meres Leisure Centre</li>
+                    <li>Saturday Morning (All year round) - 7am at the Meres Leisure Centre</li>
                 </ul>
                 <h3>Bike Sessions</h3>
                 <ul>
                     <li>Tuesday Night (Summer season) - 7pm at the Meres Leisure Centre</li>
-                    <li>Wednesday Night - Turbo (Winter season) - 7:30pm the the Tennis Centre</li>
+                    <li>Tuesday Night - Turbo (Starts in January) - TBA</li>
                     <li>Sunday morning - (All year round) - 9am at the Meres Leisure Centre.</li>
                 </ul>
                 <p>We have a number of bike routes that we use for the bike rides, that can be found <a href="bikeroutes.php">here.</a></p>
@@ -43,9 +43,8 @@
                 
                 <h3>Run Sessions</h3>
                 <ul>
-                    <li>
-                        Thursday night (All year round) - 7pm at the Meres Leisure Centre. Generally around 10k.
-                    </li>
+                     <li>Wednesday night (Winter months - Joint session with GAC, and GRC) - 7pm at the Meres Stadium. All abilities welcome.</li>
+                    <li>Thursday night (All year round) - 7pm at the Meres Leisure Centre. All abilities welcome.</li>
                 </ul>
             </div>
             <!-- Footer   -->

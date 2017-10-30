@@ -49,12 +49,6 @@
                     </div>
 
                     <div class="col-md-4">
-                        <img src="../images/coaches/markwilson300.jpg" alt="" class="img-circle"/>
-                        <div class="staff"><h5>Mark Wilson</h5> <span>L2 Coach</span><span>
-                                <i class="glyphicon glyphicon-envelope"></i>&nbsp;markw@belvoirtriclub.co.uk</span></div>
-                    </div>
-
-                    <div class="col-md-4">
                         <img src="../images/coaches/catherinedavies300.jpg" alt="" class="img-circle"/>
                         <div class="staff"><h5>Catherine Davies</h5> <span>L2 Coach</span><span>
                                 <i class="glyphicon glyphicon-envelope"></i>&nbsp;catherine@belvoirtriclub.co.uk</span></div>

@@ -9,7 +9,7 @@
                 <li><a href="/about/committee.php">Committee</a></li>
                 <li><a href="/about/membership.php">Membership</a></li>
                 <li><a href="/about/london-marathon.php">London Marathon ballot</a></li>
-                <li><a href="/docs/constitution/BTC-Constitution-Updated-October-2017" target="_blank">Constitution</a>
+                <li><a href="/docs/constitution/BTC-Constitution-Updated-October-2017.pdf" target="_blank">Constitution</a>
                 <li><a href="/about/contact.php" id="contact">Contact</a></li>
                 <li><a href="/about/barry.php" id="barry">Barry - The Story</a></li>
             </ul>

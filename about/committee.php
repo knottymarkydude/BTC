@@ -7,7 +7,7 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-        <title>Committee - Belvoir Tri Club</title>
+        <title>Committee</title>
         <?php include '../common/css.php'; ?>
 
     </head>
@@ -85,7 +85,7 @@
                     </div>
 
                     <div class="col-md-4">
-                        <img src="../images/coaches/staff-1.jpg" alt="" class="img-circle"/>
+                        <img src="../images/committee/tomdean300.jpg" alt="" class="img-circle"/>
                         <div class="staff"><h5>Social Media Officer</h5> <span>Tom Dean</span>
                             <span>
                                 <i class="glyphicon glyphicon-envelope"></i>&nbsp;tom@belvoirtriclub.co.uk
@@ -103,19 +103,19 @@
                     </div>
 
                     <div class="col-md-4">
-                        <img src="../images/coaches/staff-2.jpg" alt="" class="img-circle"/>
+                        <img src="../images/committee/MarijkeDeGroot300.jpg" alt="" class="img-circle"/>
                         <div class="staff"><h5>Welfare Officer</h5> <span>Marijke De Groot</span>
                             <span>
-                                <i class="glyphicon glyphicon-envelope"></i>&nbsp;info@belvoirtriclub.co.uk
+                                <i class="glyphicon glyphicon-envelope"></i>&nbsp;marijke@belvoirtriclub.co.uk
                             </span>                            
                         </div>
                     </div>
                     
                     <div class="col-md-4">
-                        <img src="../images/coaches/staff-1.jpg" alt="" class="img-circle"/>
+                        <img src="../images/committee/markfryer300.jpg" alt="" class="img-circle"/>
                         <div class="staff"><h5>Welfare Officer</h5> <span>Mark Fryer</span>
                             <span>
-                                <i class="glyphicon glyphicon-envelope"></i>&nbsp;info@belvoirtriclub.co.uk
+                                <i class="glyphicon glyphicon-envelope"></i>&nbsp;markf@belvoirtriclub.co.uk
                             </span>                            
                         </div>
                     </div>
@@ -167,13 +167,29 @@
                         </div>
                     </div>
 
-                    
-
                     <div class="col-md-4">
                         <img src="../images/committee/markw300.jpg" alt="" class="img-circle"/>
                         <div class="staff"><h5>Website Developer</h5> <span>Mark Wilson</span>
                             <span>
                                 <i class="glyphicon glyphicon-envelope"></i>&nbsp;markw@belvoirtriclub.co.uk
+                            </span>
+                        </div>
+                    </div>
+                    
+                    <div class="col-md-4">
+                        <img src="../images/committee/ianhancocks300.jpg" alt="" class="img-circle"/>
+                        <div class="staff"><h5>Website Developer</h5> <span>Ian Hancocks</span>
+                            <span>
+                                <i class="glyphicon glyphicon-envelope"></i>&nbsp;ian@belvoirtriclub.co.uk
+                            </span>
+                        </div>
+                    </div>
+                    
+                    <div class="col-md-4">
+                        <img src="../images/committee/louiseperry300.jpg" alt="Louise Perry" class="img-circle"/>
+                        <div class="staff"><h5>Go Tri Coordinator</h5> <span>Louise Perry</span>
+                            <span>
+                                <i class="glyphicon glyphicon-envelope"></i>&nbsp;louisep@belvoirtriclub.co.uk
                             </span>
                         </div>
                     </div>
