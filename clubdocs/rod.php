@@ -7,7 +7,7 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-        <title>Sessions</title>
+        <title>Club Documents</title>
         <?php include '../common/css.php'; ?>
 
     </head>
@@ -26,26 +26,18 @@
             <!-- Navigation / End -->
             <!-- Content -->
             <div class="panel panel-body">
-                <h1>Club Sessions</h1>
-                <h3>Swim Sessions</h3>
-                <ul>
-                    <li>Monday Morning (All year round) - 6am at the Meres Leisure Centre</li>
-                    <li>Saturday Morning (All year round) - 7am at the Meres Leisure Centre</li>
-                </ul>
-                <h3>Bike Sessions</h3>
-                <ul>
-                    <li>Tuesday Night (Summer season) - 7pm at the Meres Leisure Centre</li>
-                    <li>Tuesday Night - Turbo (Starts in January) - TBA</li>
-                    <li>Sunday morning - (All year round) - 9am at the Meres Leisure Centre.</li>
-                </ul>
-                <p>We have a number of bike routes that we use for the bike rides, that can be found <a href="bikeroutes.php">here.</a></p>
-                <button id="bikeroutes" class="btn btn-info">Bike Routes</button>
-                
-                <h3>Run Sessions</h3>
-                <ul>
-                     <li>Wednesday night (Winter months - Joint session with GAC, and GRC) - 7pm at the Meres Stadium. All abilities welcome.</li>
-                    <li>Thursday night (All year round) - 7pm at the Meres Leisure Centre. All abilities welcome.</li>
-                </ul>
+                <h1 class='headline'>Records Of Decision</h1>
+                <div>
+                    <p><span class="glyphicon glyphicon-book"></span>&nbsp;<a href="../docs/rod/20150127-BTC_RoDs.pdf">Committee Meeting - 27 Jan 2015</a></p>
+                    <p><span class="glyphicon glyphicon-book"></span>&nbsp;<a href="../docs/rod/20150318-BTC_RoDs.pdf">Committee Meeting - 18 March 2015</a></p>
+                    <p><span class="glyphicon glyphicon-book"></span>&nbsp;<a href="../docs/rod/20150508-BTC_RoDs.pdf">Committee Meeting - 5 May 2015</a></p>
+                    <p><span class="glyphicon glyphicon-book"></span>&nbsp;<a href="../docs/rod/20150623-BTC_RoDs.pdf">Committee Meeting - 15 June 2015</a></p>
+                    <p><span class="glyphicon glyphicon-book"></span>&nbsp;<a href="../docs/rod/20150902-BTC_RoDs.pdf">Committee Meeting - 1 Sept 2015</a></p>
+                    <p><span class="glyphicon glyphicon-book"></span>&nbsp;<a href="../docs/rod/20150911-BTC-RODs.pdf">Committee Meeting - 9 Nov 2015</a></p>
+                    <p><span class="glyphicon glyphicon-book"></span>&nbsp;<a href="../docs/rod/20160111-BTC-RODs.pdf">Committee Meeting - 11 Jan 2016</a></p>
+                    <p><span class="glyphicon glyphicon-book"></span>&nbsp;<a href="../docs/rod/20161031-BTC-RODs.pdf">Committee Meeting - 31 Oct 2016</a></p>
+
+                </div>
             </div>
             <!-- Footer   -->
             <?php include '../common/footer.php'; ?>
@@ -57,16 +49,13 @@
         <script type="text/javascript">
             $(document).ready(function () {
                 var str = location.href.toLowerCase();
+                console.log(str);
                 $('#nav li a').each(function () {
                     if (str.indexOf(this.href.toLowerCase()) > -1) {
                         $(this).addClass("active");
                     }
                 });
-                $("#sessions").addClass("active");
-                
-                $("#bikeroutes").click(function () {
-                document.location.href='bikeroutes.php';
-            });
+                $("#clubdocs").addClass("active");
             });
         </script>
     </body>
