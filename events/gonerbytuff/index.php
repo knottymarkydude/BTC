@@ -10,7 +10,7 @@
         <title>Gonerby Tuff Off Road Duathlon</title>
         <?php include '../../common/css.php'; ?>
 
-    </head><?php include 'common/analyticstracking.php'; ?>
+    </head><?php include '/common/analyticstracking.php'; ?>
     <body>
         <!-- Wrapper Start -->
         <div id="wrapper" class="container-fluid">

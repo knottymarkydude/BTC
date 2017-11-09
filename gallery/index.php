@@ -8,7 +8,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <title>Gallery</title>
         <?php include '../common/css.php'; ?>
-    </head><?php include 'common/analyticstracking.php'; ?>
+    </head><?php include '/common/analyticstracking.php'; ?>
     <body>
         <!-- Wrapper Start -->
         <div id="wrapper" class="container-fluid">

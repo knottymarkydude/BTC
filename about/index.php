@@ -9,7 +9,7 @@
         <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
         <title>About the Club</title>
         <?php include '../common/css.php'; ?>
-    </head><?php include 'common/analyticstracking.php'; ?>
+    </head><?php include '/common/analyticstracking.php'; ?>
     <body>
         <!-- Wrapper Start -->
         <div id="wrapper" class="container-fluid">
