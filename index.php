@@ -10,6 +10,7 @@
         <?php include 'common/head-data.php'; ?>
         <?php include 'common/css.php'; ?>
     </head>
+    <?php include 'common/analyticstracking.php'; ?>
     <body>
 
         <!-- Wrapper Start -->

@@ -10,7 +10,7 @@
         <title>Go Tri event by Belvoir Tri Club</title>
         <?php include '../../common/css.php'; ?>
 
-    </head>
+    </head><?php include 'common/analyticstracking.php'; ?>
     <body>
         <!-- Wrapper Start -->
         <div id="wrapper" class="container-fluid">
