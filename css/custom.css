@@ -8,3 +8,28 @@ p {
     margin-right: 80px;
 }
 
+ul#gotri {
+    font-size: large;
+}
+
+
+table.gotri {
+    font-size: large;
+    margin-bottom: 15px;
+}
+
+table.gotri td {
+    padding-right: 50px;
+}
+
+
+.fp-wrapper {
+    display: flex;
+}
+
+.one {
+  flex: 0 0 40%;
+}
+.two {
+  flex: 1;
+}

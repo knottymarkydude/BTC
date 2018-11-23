@@ -7,10 +7,9 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-        <title>Belvoir Tri Club</title>
+        <title>About the Club</title>
         <?php include '../common/css.php'; ?>
-
-    </head>
+    </head><?php include '/common/analyticstracking.php'; ?>
     <body>
         <!-- Wrapper Start -->
         <div id="wrapper" class="container-fluid">
@@ -28,7 +27,6 @@
             <div class="panel panel-body">
                 <p>
                     <img class="thumbnail" src="../images/events/btc-group-1-s.jpg" align="right" alt="2016 Training with Lucy & Mark">
-                
                     Belvoir Tri Club is based in and around the Vale Of 
                     Belvoir centered in Grantham. Founded in 2012 by a 
                     group of like-minded individuals who wanted to form 
@@ -49,7 +47,9 @@
                 </p>
                 
                 <p>
-                   We are affiliated to Triathlon England, UKA and CTT.
+                    We are affiliated to <a href="http://www.triathlonengland.org/" target="_blank">Triathlon England</a>, 
+                    <a href="http://www.britishathletics.org.uk/" target="_blank">UKA</a> and 
+                    <a href="https://www.cyclingtimetrials.org.uk/" target="_blank">CTT</a>.
                 </p>
             </div>
             <!-- Footer   -->

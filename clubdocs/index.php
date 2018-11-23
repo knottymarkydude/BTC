@@ -10,7 +10,7 @@
         <title>Club Documents</title>
         <?php include '../common/css.php'; ?>
 
-    </head>
+    </head><?php include '/common/analyticstracking.php'; ?>
     <body>
         <!-- Wrapper Start -->
         <div id="wrapper" class="container-fluid">
@@ -38,12 +38,12 @@
         <script type="text/javascript">
             $(document).ready(function () {
                 var str = location.href.toLowerCase();
-                console.log(str);
                 $('#nav li a').each(function () {
                     if (str.indexOf(this.href.toLowerCase()) > -1) {
                         $(this).addClass("active");
                     }
                 });
+                $("#events").addClass("active");
             });
         </script>
     </body>
